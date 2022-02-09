@@ -218,8 +218,8 @@
   </colors>
 
   <books id="C01">
-    <book-collection-name>རེས་མེད་ཞལ་འདོན།</book-collection-name>
-    <book-collection-abbrev>རེས་མེད་ཞལ་འདོན།</book-collection-abbrev>
+    <book-collection-name>རིས་མེད་ཞལ་འདོན།</book-collection-name>
+    <book-collection-abbrev>རིས་མེད་ཞལ་འདོན།</book-collection-abbrev>
     <book-collection-description></book-collection-description>
 
     <features type="bc">
@@ -242,6 +242,10 @@
       <feature name="bc-allow-share-video" value="false"/>
     </features>
 
+    <metadata>
+      <meta name="copyright-text" content="© 2022 ITBSI"/>
+    </metadata>
+
     <styles-info>
       <text-font family="font1"/>
       <text-size value="20"/>
@@ -258,8 +262,8 @@
     </writing-system>
 
     <book id="B001">
-      <name>རེས་མེད་ཞལ་འདོན།</name>
-      <abbrev>རེས་མེད་ཞལ་འདོན།</abbrev>
+      <name>རིས་མེད་ཞལ་འདོན།</name>
+      <abbrev>རིས་མེད་ཞལ་འདོན།</abbrev>
       <filename>Tibetan.txt</filename>
       <source>D:\Scripture App Builder\triple Language app\Tibetan.txt</source>
 
@@ -294,6 +298,10 @@
       <feature name="bc-allow-share-audio" value="false"/>
       <feature name="bc-allow-share-video" value="false"/>
     </features>
+
+    <metadata>
+      <meta name="copyright-text" content="© 2022 ITBSI"/>
+    </metadata>
 
     <styles-info>
       <text-font family="font1"/>
@@ -347,6 +355,10 @@
       <feature name="bc-allow-share-audio" value="false"/>
       <feature name="bc-allow-share-video" value="false"/>
     </features>
+
+    <metadata>
+      <meta name="copyright-text" content="© 2022 ITBSI"/>
+    </metadata>
 
     <styles-info>
       <text-font family="font1"/>
