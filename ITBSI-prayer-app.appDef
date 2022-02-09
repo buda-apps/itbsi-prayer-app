@@ -177,6 +177,10 @@
   </features>
 
   <firebase>
+
+    <features type="firebase">
+      <feature name="firebase-analytics" value="false"/>
+    </features>
   </firebase>
 
   <fonts>
@@ -205,6 +209,36 @@
   </colors>
 
   <styles>
+    <style name="div.p" category="text">
+      <style-decl property="padding-left" value="10px"/>
+      <style-decl property="padding-right" value="0%"/>
+      <style-decl property="padding-top" value="12px"/>
+      <style-decl property="text-indent" value="13px"/>
+    </style>
+    <style name="div.m" category="text">
+      <style-decl property="padding-left" value="10px"/>
+      <style-decl property="padding-right" value="0%"/>
+      <style-decl property="padding-top" value="12px"/>
+      <style-decl property="text-indent" value="0"/>
+      <style-decl property="text-align" value="left"/>
+    </style>
+    <style name="div.pi" category="text">
+      <style-decl property="padding-left" value="13%"/>
+      <style-decl property="padding-right" value="0%"/>
+      <style-decl property="padding-top" value="12px"/>
+      <style-decl property="text-indent" value="10%"/>
+    </style>
+    <style name="div.mi" category="text">
+      <style-decl property="padding-left" value="0"/>
+      <style-decl property="padding-right" value="0%"/>
+      <style-decl property="padding-top" value="12px"/>
+      <style-decl property="text-indent" value="0"/>
+    </style>
+    <style name="div.q" category="text">
+      <style-decl property="padding-left" value="5%"/>
+      <style-decl property="padding-right" value="2%"/>
+      <style-decl property="text-indent" value="1%"/>
+    </style>
   </styles>
 
   <traits>
@@ -218,7 +252,7 @@
   </colors>
 
   <books id="C01">
-    <book-collection-name>རིས་མེད་ཞལ་འདོན།</book-collection-name>
+    <book-collection-name>བོད་བརྒྱུད་ནང་བསྟན་ཞལ་འདོན་ཉུང་བསྡུས།</book-collection-name>
     <book-collection-abbrev>རིས་མེད་ཞལ་འདོན།</book-collection-abbrev>
     <book-collection-description></book-collection-description>
 
@@ -253,6 +287,11 @@
       <text-direction value="LTR"/>
       <numeral-system value="Default"/>
       <verse-number-style value="default"/>
+
+      <styles>
+        <style name="div.footer">
+        </style>
+      </styles>
     </styles-info>
 
     <writing-system code="bo">
@@ -262,7 +301,7 @@
     </writing-system>
 
     <book id="B001">
-      <name>རིས་མེད་ཞལ་འདོན།</name>
+      <name>བོད་བརྒྱུད་ནང་བསྟན་ཞལ་འདོན་ཉུང་བསྡུས།</name>
       <abbrev>རིས་མེད་ཞལ་འདོན།</abbrev>
       <filename>Tibetan.txt</filename>
       <source>D:\Scripture App Builder\triple Language app\Tibetan.txt</source>
@@ -310,6 +349,11 @@
       <text-direction value="LTR"/>
       <numeral-system value="Default"/>
       <verse-number-style value="default"/>
+
+      <styles>
+        <style name="div.footer">
+        </style>
+      </styles>
     </styles-info>
 
     <writing-system code="Zh">
@@ -367,6 +411,11 @@
       <text-direction value="LTR"/>
       <numeral-system value="Default"/>
       <verse-number-style value="default"/>
+
+      <styles>
+        <style name="div.footer">
+        </style>
+      </styles>
     </styles-info>
 
     <writing-system code="Zh">
@@ -450,6 +499,48 @@
           <form lang="ko">영어</form>
           <form lang="nl">Engels</form>
           <form lang="ta">ஆங்கிலம்</form>
+        </display-names>
+        <font-family>system</font-family>
+        <trait name="text-direction" value="LTR"/>
+      </writing-system>
+
+      <writing-system code="bo" type="interface">
+        <display-names>
+          <form lang="en">Tibetan</form>
+        </display-names>
+        <font-family>system</font-family>
+        <trait name="font-relative-size" value="90"/>
+        <trait name="text-direction" value="LTR"/>
+      </writing-system>
+
+      <writing-system code="az" type="interface" enabled="false">
+        <display-names>
+          <form lang="en">Azerbaijani</form>
+          <form lang="fr">Azéri</form>
+          <form lang="hi">आज़रबाइजानी</form>
+          <form lang="te">అజర్బైజాని</form>
+          <form lang="de">Aserbaidschanisch</form>
+          <form lang="fa">آذری</form>
+          <form lang="ko">아제르바이잔어</form>
+          <form lang="es">Azerbaiyán</form>
+          <form lang="ru">Азербайджанский</form>
+          <form lang="id">Bahasa Azerbaijan</form>
+          <form lang="ar">الأذربيجانية</form>
+          <form lang="nl">Azerbeidzjaans</form>
+        </display-names>
+        <font-family>system</font-family>
+        <trait name="text-direction" value="LTR"/>
+      </writing-system>
+
+      <writing-system code="ms" type="interface" enabled="false">
+        <display-names>
+          <form lang="en">Bahasa Melayu</form>
+          <form lang="fr">Bahasa Melayu</form>
+          <form lang="es">Bahasa Melayu</form>
+          <form lang="ru">Малайский</form>
+          <form lang="id">Bahasa</form>
+          <form lang="ar">بهاسا مالايو</form>
+          <form lang="nl">Maleis</form>
         </display-names>
         <font-family>system</font-family>
         <trait name="text-direction" value="LTR"/>
@@ -803,48 +894,6 @@
           <form lang="ta">தெலுங்கு</form>
         </display-names>
         <font-family>system</font-family>
-        <trait name="text-direction" value="LTR"/>
-      </writing-system>
-
-      <writing-system code="az" type="interface" enabled="false">
-        <display-names>
-          <form lang="en">Azerbaijani</form>
-          <form lang="fr">Azéri</form>
-          <form lang="hi">आज़रबाइजानी</form>
-          <form lang="te">అజర్బైజాని</form>
-          <form lang="de">Aserbaidschanisch</form>
-          <form lang="fa">آذری</form>
-          <form lang="ko">아제르바이잔어</form>
-          <form lang="es">Azerbaiyán</form>
-          <form lang="ru">Азербайджанский</form>
-          <form lang="id">Bahasa Azerbaijan</form>
-          <form lang="ar">الأذربيجانية</form>
-          <form lang="nl">Azerbeidzjaans</form>
-        </display-names>
-        <font-family>system</font-family>
-        <trait name="text-direction" value="LTR"/>
-      </writing-system>
-
-      <writing-system code="ms" type="interface" enabled="false">
-        <display-names>
-          <form lang="en">Bahasa Melayu</form>
-          <form lang="fr">Bahasa Melayu</form>
-          <form lang="es">Bahasa Melayu</form>
-          <form lang="ru">Малайский</form>
-          <form lang="id">Bahasa</form>
-          <form lang="ar">بهاسا مالايو</form>
-          <form lang="nl">Maleis</form>
-        </display-names>
-        <font-family>system</font-family>
-        <trait name="text-direction" value="LTR"/>
-      </writing-system>
-
-      <writing-system code="bo" type="interface">
-        <display-names>
-          <form lang="en">Tibetan</form>
-        </display-names>
-        <font-family>system</font-family>
-        <trait name="font-relative-size" value="90"/>
         <trait name="text-direction" value="LTR"/>
       </writing-system>
     </writing-systems>
