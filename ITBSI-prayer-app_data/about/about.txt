@@ -33,3 +33,8 @@
 རྒྱ་ཡིག་ལོ་ཙྭ། %copyright-all:C03%
 འབྲེལ་གཏུགས།: 1234-5678
 གློག་འཕྲིན།: [email](---@gmail.com)
+
+
+%copyright-all:C04%
+
+%copyright-all:C05%
