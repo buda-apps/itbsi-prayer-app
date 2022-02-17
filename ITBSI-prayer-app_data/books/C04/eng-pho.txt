@@ -1,7 +1,7 @@
 \mt2 A Collection of Tibetan Buddhist Chanting
 \q
 \b
-\v 1 sangye chö dang tsok gyi chok nam la
+\v1 sangye chö dang tsok gyi chok nam la
 \q1 changchub bardu dak ni kyab su chi
 \q1 dak gi jin sok gyipé sönam kyi
 \q1 dro la pen chir sangye drubpar shok
@@ -12,7 +12,6 @@
 \q1 dukngal mepé dewa dang mindral bar gyur chik
 \q1 nyering chakdang nyi dang dralwé tang nyom tsemepa la nepar gyur chik
 \q
-\b
 \s Recalling the Qualities of the Three Jewels
 \q
 \b
@@ -49,7 +48,7 @@
 \v 23 dampé chö ni tokmar géwa bardu géwa tamar géwa dön zangpo tsik dru zangpo madrépa yongsu dzokpa yongsu dakpa yongsu jangwa 
 \q
 \b
-\v 24 chomdendé kyi chö lekpar sungpa yangdakpar tongwa né mépa dü chépa mépa nyewar töpa di tongwa la dön yöpa khépa nam kyi soso rang gi rigpar chawa chomdendé kyi sungpé chö dulwa la lekpar tenpa ngépar jungwa dzokpé changchub tu drowar chépa mi tünpa mé ching düpa dang denpa tenpa yöpa gyuwa chépa o
+\v 24chomdendé kyi chö lekpar sungpa yangdakpar tongwa né mépa dü chépa mépa nyewar töpa di tongwa la dön yöpa khépa nam kyi soso rang gi rigpar chawa chomdendé kyi sungpé chö dulwa la lekpar tenpa ngépar jungwa dzokpé changchub tu drowar chépa mi tünpa mé ching düpa dang denpa tenpa yöpa gyuwa chépa o
 \q
 \b
 \v 25 tekpa chenpöi gendün ni lekpar shyukpa rigpar shyukpa drangpor shyukpa tünpar shyukpa talmo jarwé ö su gyurpa chak chawé ö su gyurpa sönam kyi pal gyi shying yön yong su jongwa chenpo jinpé né su gyurpa kuntu yang jinpé né su gyurpa chenpo o
@@ -209,823 +208,894 @@
 s\The Flower of Faith: A Prayer to the Twenty-Five Founders of Buddha's Teachings in Tibet
 \q
 \b
-tsa sum kün dü loppön pema jung
+\v 51 tsa sum kün dü loppön pema jung
 khenchen shyi tso chö gyal tri song shyap
 nupchen sangyé nyang tön nyima ö
 ka ter shing ta nga la solwa dep
-
-dorjé chang ngö la chen nyingpö shyap
+\q
+\b
+\v 52 dorjé chang ngö la chen nyingpö shyap
 sönam tsé mo drakpa gyaltsen dang
 sakya penchen pakpa rinpoché
 jetsün gong ma nga la solwa dep
-
-gyé dzé dorjé mar tön lodrö shyap
+\q
+\b
+\v 53 gyé dzé dorjé mar tön lodrö shyap
 milaré chen nyam mé gampopa
 dü sum khyen pa dro gön sönam drak
 kagyü gong ma nga la solwa dep
-
-ö pak mé gön palden marmé dzé
+\q
+\b
+\v 54 ö pak mé gön palden marmé dzé
 gyalwé jung né chen nga tsultrim bar
 rinchen sal dang shyön nu gyaltsen shyap
 kadam shé nyen nga la solwa dep
-
-tenpé khorlo jétsün tsongkhapa
+\q
+\b
+\v 55 tenpé khorlo jétsün tsongkhapa
 gyaltsap chö jé khé drup gé lek pal
 géndün drupa penchen chö kyi gyal
 jamgön yap sé nga la solwa dep
-
-dé tar solwa tap pé jin lap kyi
+\q
+\b
+\v 56 dé tar solwa tap pé jin lap kyi
 dak sok tsering né mé chö shyin chö
 yong dzin shé nyen chok gi jé zung né
 nyur du changchup go pang top par shok
-
-rimé tupten dzinpé dampa nam
+\q
+\b
+\v 57 rimé tupten dzinpé dampa nam
 kal gyar shyapten trin lé chok chur pel
 géndün dé dang shédrup tenpa gyé
 sa sum tashi nangwé khyap gyur chik
-
-6 The Praise to Tārā with Twenty-One Verses of Homage
-
-om jetsünma pakma drolma la chaktsal lo
-
-chaktsal drolma nyurma pamo
-chen ni kechik lok dang dra ma
-jikten sum gön chukyé shyal gyi
-gesar jewa lé ni jung ma
-
-chaktsal tönké dawa küntu
-gangwa gya ni tsekpé shyal ma
-karma tongtrak tsokpa nam kyi
-rabtu chewé ö rab bar ma
-
-chaktsal ser ngo chu né kyé kyi
-pemé chak ni nampar gyen ma
-jinpa tsöndrü katub shyiwa
-zöpa samten chöyul nyi ma
-
-chaktsal deshyin shekpé tsuktor
-tayé nampar gyalwa chö ma
-malü parol chinpa tobpé
-gyalwé sé kyi shintu ten ma
-
-chaktsal tuttara hung yigé
-dö dang chok dang namkha gang ma
-jikten dünpo shyab kyi nen té
-lüpa mepar gukpar nü ma
-
-chaktsal gyajin melha tsangpa
-lunglha natsok wangchuk chö ma
-jungpo rolang driza nam dang
-nöjin tsok kyi dün né tö ma
-
-chaktsal tré cheja dang pé kyi
-parol trulkhor rabtu jom ma
-yé kum yön kyang shyab kyi nen té
-mebar trukpa shintu bar ma
-
-chaktsal turé jikpa chenpö
-dü kyi pawo nampar jom ma
-chukyé shyal ni tronyer den dzé
-drawo tamché malü sö ma
-
-chaktsal könchok sum tsön chakgyé
-sormö tukkar nampar gyen ma
-malü chok kyi khorlö gyenpé
-rang gi ö kyi tsok nam truk ma
-
-chaktsal rabtu gawa jipé
-ugyen ö kyi trengwa pelma
-shyepa rab shyé tuttara yi
-dü dang jikten wang du dzé ma
-
-chaktsal sa shyi kyongwé tsok nam
-tamché gukpar nüpa nyi ma
-tronyer yowé yigé hung gi
-pongpa tamché nampar drolma
-
-chaktsal dawé dumbü ugyen
-gyenpa tamché shintu bar ma
-ralpé trö na öpakmé lé
-takpar shintu ö rab dzé ma
-
-chaktsal kalpa tamé mé tar
-barwé trengwé ü na né ma
-yé kyang yön kum künné kor gé
-dra yi pung ni nampar jom ma
-
-chaktsal sa shyi ngö la chak gi
-til gyi nün ching shyab kyi dung ma
-tronyer chen dzé yigé hung gi
-rimpa dünpo nam ni gem ma
-
-chaktsal dé ma gé ma shyi ma
-nya ngen dé shyi chöyul nyi ma
-soha om dang yangdak denpé
-dikpa chenpo jompa nyi ma
-
-chaktsal künné kor rabga bé
-dra yi lü ni rabtu gem ma
-yigé chupé ngak ni köpé
-rigpa hung lé drölma nyi ma
-
-chaktsal turé shyab ni dabpé
-hung gi nampé sabön nyi ma
-rirab mendara dang bikjé
-jikten sum nam yowa nyi ma
-
-chaktsal lha yi tso yi nampé
-ridak takchen chak na nam ma
-tara nyi jö pé kyi yigé
-duk nam malüpar ni selma
-
-chaktsal lha yi tsok nam gyalpo
-lha dang mi'amchi yi ten ma
-künné gocha gawa ji kyi
-tsö dang milam ngenpa selma
-
-chaktsal nyima dawa gyepé
-chen nyipo la ö rabsal ma
-hara nyi jö tuttara yi
-shintu drakpö rimné selma
-
-chaktsal denyi sum nam köpé
-shyiwé tu dang yangdak den ma
-dön dang rolang nöjin tsok nam
-jompa turé rab chok nyi ma
-
-tsawé ngak kyi töpa di dang
-chaktsalwa ni nyishu tsa chik
-
-Prayer for the Future of the Dharma
-
-sangye namzik tsuktor tamché kyob
-khorwa jik dang sertub ösung dang
-shakya tubpa gautam lha yi lha
-sangye pawo dün la chaktsal lo
-
-semchen döndu dak gi ngön
-kawa gangshyik ché gyur dang
-dak gi dewa tangwa yi
-tenpa yün ring bar gyur chik
-
-ngé ngön nepé ché dak tu
-rang gi tsowa yong tangwé
-semchen pongpa kyabpé chir
-tenpa yün ring bar gyur chik
-
-bu dang bumo chungma dang
-nor dang langchen shingta dang
-rinchen changchub chir tangwé
-tenpa yün ring bar gyur chik
-
-dak gi sangye rangsang gyé
-nyentö pa dang ma dang ni
-drangsong dak la chö jepé
-tenpa yün ring bar gyur chik
-
-kalpa jewa dumar dak
-dukngal natsok nyong gyur ching
-changchub döndu tö tsalwé
-tenpa yün ring bar gyur chik
-
-dak gi tsultrim tulshyuk dang
-katub yün ring tenjé shing
-chok chü sangye ngé chöpé
-tenpa yün ring bar gyur chik
-
-dak ngön tsöndrü dang denpé
-taktu ten ching parol nön
-semchen tamché dral döndu
-tenpa yün ring bar gyur chik
-
-zö tul taktu tenjé shing
-semchen nyönmong nyikma yi
-semchen ngen zöjé gyurpé
-tenpa yün ring bar gyur chik
-
-samten namtar zukmé dang
-tingdzin gangé jé nyepa
-gompé dé tü dak gi ni
-tenpa yün ring bar gyur chik
-
-yeshe döndu dak gi ngön
-katub nak dak tenjé shing
-tenchö duma nyer tenpé
-tenpa yün ring bar gyur chik
-
-tsewé gyu yi sha trak dang
-tsowa yongsu tang gyur ching
-yenlak nying lak tangpa yi
-chö tsul nampar pel gyur chik
-
-dak ngön dikpé semchen nam
-jampé salwar minjé shing
-tekpa sum la rab köpé
-chö kyi chöjin gyé gyur chik
-
-dak ngön tabshé gyurpa na
-semchen ta ngen lé dral shying
-yangdak ta la kö jepé
-chö ni nampar pel gyur chik
-
-dak gi semchen du ngö shyi
-nyönmong mé lé tarjé shing
-dak gi pel dik pam jepé
-dak khor yün ring né gyur chik
-
-dak gi mutek chen shyendak
-tawé chu lé draljé té
-yangdak ta la kö gyurpé
-dak khor taktu gü gyur chik
-yün ring tenpa bar gyur chik
-
-7 The Sūtra of the Heart of Transcendent Wisdom
-
-ma sam jö mé sherab parol chin
-makyé mingak namkhé ngowo nyi
-soso rangrig yeshe chöyulwa
-dü sum gyalwé yum la chaktsal lo
-
-gyagar ké du bhagavati prajnaparamita hridaya
-
-böké du chomden dema sherab kyi parol tu chinpé nyingpo
-
-diké dak gi töpa dü chik na chomdendé gyalpö khab jagö pungpö ri la gelong gi gendün chenpo dang changchub sempé gendün chenpo dang tab chik tu shyuk té
-
-dé tsé chomdendé zabmo nangwa shyejawa chö kyi namdrang kyi ting ngé dzin la nyompar shyuk so
-
-yang dé tsé changchub sempa sempa chenpo pakpa chenrezik wangchuk sherab kyi parol tu chinpa zabmo chöpa nyi la nampar ta shying pungpo ngapo dedak la yang rangshyin gyi tongpar nampar ta o
-
-dené sangye kyi tü tsé dang denpa sharibü changchub sempa sempa chenpo pakpa chenrezik wangchuk la diké ché mé so
-
-rik kyi bu gang lala sherab kyi parol tu chinpa zabmo chöpa chepar döpa dé jitar labpar ja
-
-deké ché mepa dang | changchub sempa sempa chenpo pakpa chenrezik wangchuk gi tsé dang denpa shara datibu la diké ché mé so
-
-sharibu rik kyi bu am rik kyi bumo gang lala sherab kyi parol tu chinpa zabmo chöpa chepar döpa dé ditar nampar tawar ja té pungpo ngapo dedak kyang rangshyin gyi tongpar nampar yangdakpar jesu ta o
-
-zuk tongpa o | tongpanyi kyang zuk so
-
-zuk lé tongpanyi shyen mayin no tongpanyi lé kyang zuk shyen mayin no
-
-deshyindu tsorwa dang | dushé dang dujé dang | nampar shepa nam tongpa o
-
-sharibu detawé na chö tamché tongpanyi dé tsennyi mepa | makyepa | magakpa
-
-magakpa | drima mepa | drima dang dralwa mepa driwa mepa | gangwa mepa o
-
-sharibu detawé na tongpanyi la zukmé tsorwa mé | dushé mé | dujé nam mé | nampar shepa mé mik mé | nawa mé | na mé | che mé | lü mé | yi mé zuk mé | dra mé | dri mé | ro mé | rekja mé | chö mé do mik gi kham mepa né yi kyi kham mé yi kyi nampar shepé kham kyi bardu yang mé do
-
-marikpa mé | marikpa zepa mepa né gashi mé gashi zepé bardu yang mé do dukngalwa dang | künjungwa dang gokpa dang | lam mé | yeshe mé | tobpa mé matobpa yang mé do
-
-sharibu detawé na changchub sempa nam tobpa mepé chir
-
-sherab kyi parol tu chinpa la ten ching né té sem la dribpa mepé trakpa mé dé chin chi lok lé shintu dé né nya ngen lé depé tarchin to
-
-dü sum du nampar shyukpé sangye tamché kyang sherab kyi parol tu chinpa la ten né lana mepa yangdakpar dzokpé changchub tu ngönpar dzokpar sangye so
-
-detawé na sherab kyi parol tu chinpé ngak rigpa chenpö ngak | lana mepé ngak minyampa dang nyampé ngak | dukngal tamché rabtu shyiwar jepé ngak midzünpé na denpar shepar ja té sherab kyi parol tu chinpé ngak mepa
-
-teyata | om gaté gaté para gaté | para samgaté | bodhi soha
-
-sharibu changchub sempa sempa chenpö detar sherab kyi parol tu chinpa zabmo la labpar ja o
-
-dené chomdendé ting ngé dzin dé lé shyeng té changchub sempa sempa chenpo pakpa chenrezik wangchuk la lek so shyejawa jin né lek so lek so | rik kyi bu de deshyin no
-
-rik kyi bu de deshyin té jitar khyö kyi tenpa deshyindu sherab kyi parol tu chinpa zabmo la chepar ja té deshyin shekpa nam kyang jesu yi rang ngo
-
-chomdendé kyi deké ché katsal né tsé dang denpa sharibu dang changchub sempa sempa chenpo pakpa chenrezik wangchuk dang tamché dang denpé khor dedak dang | lha dang | mi dang lha mayin dang | drizar chepé jikten yi rang té chomdendé kyi sungpa la ngönpar tö do
-
-teyata | om gaté gaté para gaté | para samgaté | bodhi soha
-
-gang gi ten ching drelwar jung
-gakpa mepa kyé mepa
-chepa mepa tak mepa
-ongwa mepa dro mepa
-
-tadé dön min dön chik min
-tröpa nyershyi shyi tönpa
-dzokpé sangye ma nam kyi
-dampa dé la chaktsal lo
-
-8 The King of Aspiration Prayers: Samantabhadra’s “Aspiration to Good Actions” (Zangchö Mönlam)
-
-jampal shyönnur gyurpa la chaktsal lo
-
-jinyé su dak chok chü jikten na
-dü sum shekpa mi yi sengé kün
-dak gi malü dedak tamché la
-lü dang ngak yi dangwé chak gyi o
-
-zangpo chöpé mönlam tob dak gi
-gyalwa tamché yi kyi ngönsum du
-shying gi dul nyé lü rab tüpa yi
-gyalwa kün la rabtu chaktsal lo
-
-dul chik teng na dul nyé sangye nam
-sangye sé kyi ü na shyukpa dak
-detar chö kyi ying nam malüpa
-tamché gyalwa dak gi gangwar mö
-
-dedak ngakpa mizé gyatso nam
-yang kyi yenlak gyatsö dra kün gyi
-gyalwa kün gyi yönten rab jö ching
-dewar shekpa tamché dak gi tö
-
-metok dampa trengwa dampa dang
-silnyen nam dang jukpa duk chok dang
-marmé chok dang dukpö dampa yi
-gyalwa dedak la ni chöpar gyi
-
-naza dampa nam dang dri chok dang
-chema purma rirab nyampa dang
-köpa khyepar pakpé chok kün gyi
-gyalwa dedak la ni chöpar gyi
-
-chöpa gang nam lamé gya chewa
-dedak gyalwa tamché la yang mö
-zangpo chö la depé tob dak gi
-gyalwa kün la chaktsal chöpar gyi
-
-döchak shyedang timuk wang gi ni
-lü dang ngak dang deshyin yi kyi kyang
-dikpa dak gi gyipa chi chipa
-dedak tamché dak gi sosor shak
-
-chok chü gyalwa kün dang sangye sé
-ranggyal nam dang lob dang mi lob dang
-drowa kün gyi sönam gangla yang
-dedak kün gyi jesu dak yi rang
-
-gang nam chok chü jikten drönma nam
-changchub rimpar sangye machak nyé
-gönpo dedak dak gi tamché la
-khorlo lanamepar korwar kul
-
-nya ngen da tön gang shyé dedak la
-drowa kün la pen shying dewé chir
-kalpa shying gi dul nyé shyukpar yang
-dak gi talmo rab jar solwar gyi
-
-chaktsalwa dang chö ching shakpa dang
-jesu yi rang kul shying solwa yi
-gewa chungzé dak gi chi sakpa
-tamché dak gi changchub chir ngo o
-
-depé sangye nam dang chok chu yi
-jikten dak na gang shyuk chöpar gyur
-gangyang majön dedak rab nyurwar
-sam dzok changchub rimpar sangye chön
-
-chok chu galé shying nam jinyepa
-dedak gyacher yongsu dakpar gyur
-changchub shingwang drung shek gyalwa dang
-sangye sé kyi rabtu gangwar shok
-
-chok chü semchen gang nam jinyé pa
-dedak taktu nemé dewar gyur
-drowa kün gyi chö kyi dön nam ni
-tünpar gyur ching rewa ang drubpar shok
-
-changchub chöpa dak ni dak chö ching
-drowa küntu kyewa drenpar gyur
-tserab küntu chipo kyewa na
-taktu dak ni rabtu jungwar shok
-
-gyalwa kün gyi jesu lob gyur té
-zangpo chöpa yongsu dzok jé ching
-tsultrim chöpa drimé yong dakpa
-taktu manyam kyönmé chöpar shok
-
-lha yi ké dang lu dang nöjin ké
-drulbum dak dang mi yi ké nam dang
-drowa kün gyi dra nam ji tsampar
-tamché ké du dak gi chö ten to
-
-dé shing parol chin la rab tsön té
-changchub sem ni namyang jé magyur
-dikpa gang nam dribpar gyurpa dak
-dedak malü yongsu jangwar shok
-
-lé dang nyönmong dü kyi lé nam lé
-drol shying jikten drowa nam su yang
-jitar pemo chü michakpa shyin
-nyida namkhar tokpamé tar ché
-
-shying gi khyön dang chok nam chi tsampar
-ngensong dukngal rabtu shyiwar jé
-dewa dak la drowa kün gö ching
-drowa tamché la ni penpar ché
-
-changchub chöpa yongsu dzokjé ching
-semchen dak gi chö dang tünpar juk
-zangpo chöpa dak ni rab tön ching
-ma ong kalpa küntu chöpar gyur
-
-dak gi chö dang tsungpar gang chöpa
-dedak dang ni taktu drokpar shok
-lü dang ngak nam dang ni sem kyi kyang
-chöpa dak dang mönlam chik tu ché
-
-dak la penpar döpé drokpo dak
-zangpo chöpa rabtu tönpa nam
-dedak dang yang taktu trepar shok
-dedak dak gi namyang yi miyung
-
-sangye sé kyi korwé gönpo nam
-ngönsum taktu dak gi gyalwa ta
-ma ong kalpa küntu mikyowar
-dedak la yang chöpa gyacher gyi
-
-gyalwa nam kyi dampé chö dzin ching
-changchub chöpa küntu nangwar jé
-zangpo chöpa nampar jongwa yang
-ma ong kalpa küntu chepar gyi
-
-sipa tamché du yang khorwa na
-sönam yeshe dak ni mizé nyé
-tab dang sherab tingdzin namtar dang
-yönten kün gyi mizé dzö du gyur
-
-dul chik teng na dul nyé shying nam té
-shying der sam gyi mikhyab sangye nam
-sangye sé kyi ü na shyukpa la
-changchub chepa chö ching tawar gyi
-
-detar malü tamché chok su yang
-tra tsam khyön la dü sum tsé nyé kyi
-sangye gyatso shying nam gyatso dang
-kalpa gyatso chö ching rabtu juk
-
-sung chik yenlak gyatsö draké kyi
-gyalwa kün yang yenlak namdakpa
-drowa kün gyi sampa jishyin yang
-sangye sung la taktu jukpar gyi
-
-dü sum shekpé gyalwa tamché dak
-khorlö tsul nam rabtu korwa yi
-dedak gi yang sung yang mizé la
-lo yi tob kyi dak kyang rabtu juk
-
-ma ong kalpa tamché jukpar yang
-kechik chik gi dak kyang jukpar gyi
-gangyang kalpa dü sum tsé dedak
-kechik chashé kyi ni shyukpar ché
-
-dü sum shekpa mi yi sengé gang
-dedak kechik chik la dak gi ta
-taktu dedak gi ni chöyul la
-gyumar gyurpé namtar tob kyi juk
-
-gangyang dü sum dak gi shying köpa
-dedak dul chik tengdu ngönpar drub
-detar malü chok nam tamché du
-gyalwa dak gi shying nam kö la juk
-
-gangyang majön jikten drönma nam
-dedak rimpar tsang gya khorlo kor
-nya ngen depa rabtu shyi ta tön
-gönpo kün gyi drung du dak chi o
-
-küntu nyurwé dzutrul tob nam dang
-künné go yi tekpé tob dak dang
-küntu yönten chöpé tob nam dang
-küntu khyabpa jampa dak gi tob
-
-künné gewé sönam tob dak dang
-chakpa mepar gyurpé yeshe tob
-sherab tab dang tingdzin tob dak gi
-changchub tob nam yangdak drubpar jé
-
-lé kyi tob nam yongsu dakjé ching
-nyönmong tob nam küntu jompar jé
-dü kyi tob nam tobmé rabjé ching
-zangpo chöpé tob ni dzokpar gyi
-
-shying nam gyatso nampar dakjé ching
-semchen gyatso dak ni nampar drol
-chö nam gyatso rabtu tongjé ching
-yeshe gyatso rabtu tokpar jé
-
-chöpa gyatso nampar dakjé ching
-mönlam gyatso yongsu dzokpar jé
-sangye gyatso rabtu chöjé ching
-kalpa gyatso mikyo chepar gyi
-
-gangyang dü sum shekpé gyalwa yi
-changchub chöpé mönlam jedrak nam
-zangpo chöpé changchub sangye né
-dé kün dak gi malü dzokpar gyi
-
-gyalwa kün gyi sé kyi tuwopa
-gang gi ming ni kuntuzang shyeja
-khepa dé dang tsungpar chepé chir
-gewa didak tamché rabtu ngo
-
-lü dang ngak dang yi kyang namdak ching
-chöpa namdak shying nam yong dakpa
-ngowa zangpo khepa chindrawa
-dendrar dak kyang dé dang tsungpar shok
-
-künné gewa zangpo chepé chir
-jampal gyi ni mönlam chepar gyi
-ma ong kalpa küntu mikyowar
-dé yi jawa malü dzokpar gyi
-
-chöpa dak ni tsé yö magyur chik
-yönten nam kyang tsé zung mepar shok
-chöpa tsemepa la né né kyang
-dedak trulpa tamché tsalwar gyi
-
-namkhé tartuk gyurpa ji tsampar
-semchen malü ta yang deshyin té
-ji tsam lé dang nyönmong tar gyurpa
-dak gi mönlam ta yang detsam mo
-
-gangyang chok chü shying nam tayepa
-rinchen gyen té gyalwa nam la pul
-lha dang mi yi dewé chok nam kyang
-shying gi dul nyé kalpar pulwa bé
-
-gang gi ngowé gyalpo di tö né
-changchub chok gi jesu rab mö shing
-len chik tsam yang depa kyepa na
-sönam dampé chok tu di gyur ro
-
-gang gi zangchö mönlam di tabpé
-dé ni ngensong tamché pongwar gyur
-dé ni drokpo ngenpa pangwa yin
-nangwa tayé deyang dé nyur tong
-
-dedak nyepa rab nyé dewar tso
-mitsé dir yang dedak lekpar ong
-kuntuzangpo deyang chindrawar
-dedak ringpor mitok deshyin gyur
-
-tsammé ngapo dak gi dikpa nam
-gang gi mishe wang gi jepa dak
-dé yi zangpo chöpa di jö na
-nyurdu malü yongsu jangwar gyur
-
-yeshe dang ni zuk dang tsen nam dang
-rik dang khadok nam dang denpar gyur
-dü dang mutek mangpö dé mitub
-jikten sumpo kün na ang chöpar gyur
-
-changchub shingwang drung du dé nyur dro
-song né semchen pen chir der duk té
-changchub sangye khorlo rabtu kor
-dü nam dé dang chepa tamché tul
-
-gangyang zangpo chöpé mönlam di
-changwa dang ni tön tam lok na yang
-dé yi nampar minpa ang sangye khyen
-changchub chok la somnyi majé chik
-
-jampal pawö jitar khyenpa dang
-kuntuzangpo deyang deshyin té
-dedak kün gyi jesu dak lob chir
-gewa didak tamché rabtu ngo
-
-dü sum shekpé gyalwa tamché kyi
-ngowa gangla chok tu ngakpa dé
-dak gi gewé tsawa di kün kyang
-zangpo chö chir rabtu ngowar gyi
-
-dak ni chiwé dü jé gyurpa na
-dribpa tamché dak ni chir sal té
-ngönsum nangwa tayé dé tong né
-dewachen gyi shying der rabtu dro
-
-der song né ni mönlam didak kyang
-tamché malü ngön du gyurwar shok
-dedak malü dak gi yongsu kang
-jikten jisi semchen penpar gyi
-
-gyalwé kyilkhor zang shying gawa der
-pemo dampa shintu dzé lé kyé
-nangwa tayé gyalwé ngönsum du
-lungtenpa yang dak gi der tob shok
-
-der ni dak gi lungten rab tob né
-trulpa mangpo jewa trak gya yi
-lo yi tob kyi chok chu nam su yang
-semchen nam la penpa mangpo gyi
-
-zangpo chöpé mönlam tabpa yi
-gewa chungzé dak gi chi sakpa
-dé ni drowé mönlam gewa nam
-kechik chik gi tamché jorwar shok
-
-gangyang zangpo chöpa di ngöpé
-sönam tayé dampa gang tob dé
-drowa dukngal chuwor jingwa nam
-öpakmepé né rab tobpar shok
-
-mönlam gyalpo didak chok gi tso
-tayé drowa kün la pen jé ching
-kuntuzangpö gyenpé shyung drub té
-ngensong né nam malü tongpar shok
-
-This completes the King of Aspiration Prayers, Samantabhadra’s “Aspiration to Good Actions.”
-
-9 Prayer for the Future of the Dharma
-
-sangye namzik tsuktor tamché kyob
-khorwa jik dang sertub ösung dang
-shakya tubpa gautam lha yi lha
-sangye pawo dün la chaktsal lo
-
-semchen döndu dak gi ngön
-kawa gangshyik ché gyur dang
-dak gi dewa tangwa yi
-tenpa yün ring bar gyur chik
-
-ngé ngön nepé ché dak tu
-rang gi tsowa yong tangwé
-semchen pongpa kyabpé chir
-tenpa yün ring bar gyur chik
-
-bu dang bumo chungma dang
-nor dang langchen shingta dang
-rinchen changchub chir tangwé
-tenpa yün ring bar gyur chik
-
-dak gi sangye rangsang gyé
-nyentö pa dang ma dang ni
-drangsong dak la chö jepé
-tenpa yün ring bar gyur chik
-
-kalpa jewa dumar dak
-dukngal natsok nyong gyur ching
-changchub döndu tö tsalwé
-tenpa yün ring bar gyur chik
-
-dak gi tsultrim tulshyuk dang
-katub yün ring tenjé shing
-chok chü sangye ngé chöpé
-tenpa yün ring bar gyur chik
-
-dak ngön tsöndrü dang denpé
-taktu ten ching parol nön
-semchen tamché dral döndu
-tenpa yün ring bar gyur chik
-
-zö tul taktu tenjé shing
-semchen nyönmong nyikma yi
-semchen ngen zöjé gyurpé
-tenpa yün ring bar gyur chik
-
-samten namtar zukmé dang
-tingdzin gangé jé nyepa
-gompé dé tü dak gi ni
-tenpa yün ring bar gyur chik
-
-yeshe döndu dak gi ngön
-katub nak dak tenjé shing
-tenchö duma nyer tenpé
-tenpa yün ring bar gyur chik
-
-tsewé gyu yi sha trak dang
-tsowa yongsu tang gyur ching
-yenlak nying lak tangpa yi
-chö tsul nampar pel gyur chik
-
-dak ngön dikpé semchen nam
-jampé salwar minjé shing
-tekpa sum la rab köpé
-chö kyi chöjin gyé gyur chik
-
-dak ngön tabshé gyurpa na
-semchen ta ngen lé dral shying
-yangdak ta la kö jepé
-chö ni nampar pel gyur chik
-
-dak gi semchen du ngö shyi
-nyönmong mé lé tarjé shing
-dak gi pel dik pam jepé
-dak khor yün ring né gyur chik
-
-dak gi mutek chen shyendak
-tawé chu lé draljé té
-yangdak ta la kö gyurpé
-dak khor taktu gü gyur chik
-yün ring tenpa bar gyur chik
-
-10 The Sage's Harmonious Song of Truth
-A Prayer for the Flourishing of the Non-Sectarian Teachings of the Buddha
-
-ku shyi daknyi künkhyen nyimé nyen
-tsé öpakmé pakchok chenrezig
-jamyang sangdak drolma tronyer chen
-gyal dang gyalsé sempé tsok nam dang
-
-té rab ché dün gyen druk chok nyipo
-drubchen gyechu neten chudruk sok
-ten dang dro la chik tu pen shyepa
-kyechok sempa malü gong su sol
-
-tubpa chok gi drangmé kalpa ru
-sönam yeshé tsok nyi rabdzok té
-khyentsé nüpa tar sön denpé tü
-yongdzok gyalten yün ring bar gyur chik
-
-gangri jong su tubten nangwé go
-tokmar jé dzé khen lob chögyal sum
-lopen rigdzin jebang tukkyé tü
-gangjong gyalten yün ring bar gyur chik
-
-gyachen ka yi norbü ding khang du
-zabmö drubdé chö kyi ter chenpo
-zab yang nyingtik ö nön rabtu tser
-gangjong gyalten yün ring bar gyur chik
-
-kadak ösal nyingpö longchen por
-khordé chö kün ub chub tekpé tsé
-kunzang dömé gyalsar dröpé tab
-gangjong gyalten yün ring bar gyur chik
-
-zabmö ta dang gyachen chöpé gyü
-yong dzok dampé dzö nga a ti sha
-gyalwé jungné lé ong dampé sol
-gangjong gyalten yün ring bar gyur chik
-
-denö sum gyi düpé gyalwé ka
-dampa kyebu sum du lek drikpa
-lha chödün kadam ser gyi treng
-gangjong gyalten yün ring bar gyur chik
-
-dragyur marpa shyepa dorjé sok
-jinlab jungné kagyü norbü dzö
-tsungmé rimjön kasol mejung ba
-gangjong gyalten yün ring bar gyur chik
-
-khordé chö kün lhenkyé sem kyi dang
-semnyi trödral chökü ngowor tok
-nangsi khordé künkhyab chakgya ché
-gangjong gyalten yün ring bar gyur chik
-
-chinang rikné do ngak shyung gyé né
-ché tsö tsompé tubten kyong khepa
-lha rik khön tön tsé chen sakyapa
-gangjong gyalten yün ring bar gyur chik
-
-sung ngak nyengyü tsema shyiden gyi
-gyu lamdré bü nyamlen ché zab né
-naljor wangchuk khyechö dampé sol
-gangjong gyalten yün ring bar gyur chik
-
-zabmo umé ta dang nyer drelwé
-sang chen dorjé tekpé rim nyi lam
-zabsal pel khé lo zang gyalwé ten
-gangjong gyalten yün ring bar gyur chik
-
-denö sum dang gyüdé shyi yi dön
-yongdzok lam gyi ngowo gorim nam
-manor nyam su lenpé luk zang chok
-gangjong gyalten yün ring bar gyur chik
-
-dogyü shyen dang shé sol mi tsungpé
-chinang shyen sum dü kyi khorlo yi
-lungtok kabab bu jo luk zung gi
-gangjong gyalten yün ring bar gyur chik
-
-dorna shepé ka ché nam chu dang
-drubgyü shingta chi dang shyijé sok
-do ngak zung drel mengak dumé chuk
-gangjong gyalten yün ring bar gyur chik
-
-tendzin shyabten tuktün gendün nam
-tenpa khorlo sum gyi kyongwa dang
-ten la depé kyebü sateng khyab
-rimé gyalten yün ring bar gyur chik
-
-jikten küntu maktruk mugé dang
-duktsub samjor ming yang mi drak shing
-yichen jamden nöchü getsen pel
-dé ga gyatsö chok künkhyab gyur chik
-
-dak kyang deng né yongdzok tenpé lam
-gyachen semkyé zabmo tawa la
-tö sam gompé chik tu tsönpa yi
-tral yün ten dé sa la nyur rek shok
-
-namkhé té tuk gyurpé semchen chir
-tubwang gyalsé yi ong chöpa la
-shyum dang ngen shyen lelo mepa dang
-yiché dünpé tro gé jukpar shok
-
-dak gi lü dang longchö gewa nam
-ma nam dewé gyu ru gyurwa dang
-dedak kün gyi duk kün gang chipa
-dé kün dak la yongsu minpar shok
-
-dak ni tong tö dren dang mö jepa
-kün kyang dé gé pal la chöpa dang
-mö dang dek tsok mi nyen drok jepa ang
-tamché changchub lam gyi kalden shok
-
-dorna jisi nam ga nepa dang
-drowé dukngal nepa desi du
-dak kyang né té ngö dang gyüpa yi
-pendé jepo nyi du gyurwar shak
+\q
+\b
+\s The Praise to Tārā with Twenty-One Verses of Homage
+\q
+\b
+\q1 om jetsünma pakma drolma la chaktsal lo
+\q
+\b
+\v 58 chaktsal drolma nyurma pamo
+\q1 chen ni kechik lok dang dra ma
+\q1 jikten sum gön chukyé shyal gyi
+\q1 gesar jewa lé ni jung ma
+\q
+\b
+\v 59 chaktsal tönké dawa küntu
+\q1 gangwa gya ni tsekpé shyal ma
+\q1 karma tongtrak tsokpa nam kyi
+\q1 rabtu chewé ö rab bar ma
+\q
+\b
+\v 60 chaktsal ser ngo chu né kyé kyi
+\q1 pemé chak ni nampar gyen ma
+\q1 jinpa tsöndrü katub shyiwa
+\q1 zöpa samten chöyul nyi ma
+\q
+\b
+\v 61 chaktsal deshyin shekpé tsuktor
+\q1 tayé nampar gyalwa chö ma
+\q1 malü parol chinpa tobpé
+\q1 gyalwé sé kyi shintu ten ma
+\q
+\b
+\v 62 chaktsal tuttara hung yigé
+\q1 dö dang chok dang namkha gang ma
+\q1 jikten dünpo shyab kyi nen té
+\q1 lüpa mepar gukpar nü ma
+\q
+\b
+\v 63 chaktsal gyajin melha tsangpa
+\q1 lunglha natsok wangchuk chö ma
+\q1 jungpo rolang driza nam dang
+\q1 nöjin tsok kyi dün né tö ma
+\q
+\b
+\v 64 chaktsal tré cheja dang pé kyi
+\q1 parol trulkhor rabtu jom ma
+\q1 yé kum yön kyang shyab kyi nen té
+\q1 mebar trukpa shintu bar ma
+\q
+\b
+\v 65 chaktsal turé jikpa chenpö
+\q1 dü kyi pawo nampar jom ma
+\q1 chukyé shyal ni tronyer den dzé
+\q1 drawo tamché malü sö ma
+\q
+\b
+\v 66 chaktsal könchok sum tsön chakgyé
+\q1 sormö tukkar nampar gyen ma
+\q1 malü chok kyi khorlö gyenpé
+\q1 rang gi ö kyi tsok nam truk ma
+\q
+\b
+\v 67 chaktsal rabtu gawa jipé
+\q1 ugyen ö kyi trengwa pelma
+\q1 shyepa rab shyé tuttara yi
+\q1 dü dang jikten wang du dzé ma
+\q
+\b
+\v 68 chaktsal sa shyi kyongwé tsok nam
+\q1 tamché gukpar nüpa nyi ma
+\q1 tronyer yowé yigé hung gi
+\q1 pongpa tamché nampar drolma
+\q
+\b
+\v 69 chaktsal dawé dumbü ugyen
+\q1 gyenpa tamché shintu bar ma
+\q1 ralpé trö na öpakmé lé
+\q1 takpar shintu ö rab dzé ma
+\q
+\b
+\v 70 chaktsal kalpa tamé mé tar
+\q1 barwé trengwé ü na né ma
+\q1 yé kyang yön kum künné kor gé
+\q1 dra yi pung ni nampar jom ma
+\q
+\b
+\v 71 chaktsal sa shyi ngö la chak gi
+\q1 til gyi nün ching shyab kyi dung ma
+\q1 tronyer chen dzé yigé hung gi
+\q1 rimpa dünpo nam ni gem ma
+\q
+\b
+\v 72 chaktsal dé ma gé ma shyi ma
+\q1 nya ngen dé shyi chöyul nyi ma
+\q1 soha om dang yangdak denpé
+\q1 dikpa chenpo jompa nyi ma
+\q
+\b
+\v 73 chaktsal künné kor rabga bé
+\q1 dra yi lü ni rabtu gem ma
+\q1 yigé chupé ngak ni köpé
+\q1 rigpa hung lé drölma nyi ma
+\q
+\b
+\v 74 chaktsal turé shyab ni dabpé
+\q1 hung gi nampé sabön nyi ma
+\q1 rirab mendara dang bikjé
+\q1 jikten sum nam yowa nyi ma
+\q
+\b
+\v 75 chaktsal lha yi tso yi nampé
+\q1 ridak takchen chak na nam ma
+\q1 tara nyi jö pé kyi yigé
+\q1 duk nam malüpar ni selma
+\q
+\b
+\v 76 chaktsal lha yi tsok nam gyalpo
+\q1 lha dang mi'amchi yi ten ma
+\q1 künné gocha gawa ji kyi
+\q1 tsö dang milam ngenpa selma
+\q
+\b
+\v 77 chaktsal nyima dawa gyepé
+\q1 chen nyipo la ö rabsal ma
+\q1 hara nyi jö tuttara yi
+\q1 shintu drakpö rimné selma
+\q
+\b
+\v 78 chaktsal denyi sum nam köpé
+\q1 shyiwé tu dang yangdak den ma
+\q1 dön dang rolang nöjin tsok nam
+\q1 jompa turé rab chok nyi ma
+\q
+\b
+\v 79 tsawé ngak kyi töpa di dang
+\q1 chaktsalwa ni nyishu tsa chik
+\b
+\s The Sūtra of the Heart of Transcendent Wisdom
+\q
+\b
+\v 82 ma sam jö mé sherab parol chin
+\q1 makyé mingak namkhé ngowo nyi
+\q1 soso rangrig yeshe chöyulwa
+\q1 dü sum gyalwé yum la chaktsal lo
+\q
+\b
+\q1 gyagar ké du bhagavati prajnaparamita hridaya
+\b
+\q1 böké du chomden dema sherab kyi parol tu chinpé nyingpo
+\b
+\q1 diké dak gi töpa dü chik na chomdendé gyalpö khab jagö pungpö ri la gelong gi gendün chenpo dang changchub sempé gendün chenpo dang tab chik tu shyuk té
+\b
+\q1 dé tsé chomdendé zabmo nangwa shyejawa chö kyi namdrang kyi ting ngé dzin la nyompar shyuk so
+\b
+\q1 yang dé tsé changchub sempa sempa chenpo pakpa chenrezik wangchuk sherab kyi parol tu chinpa zabmo chöpa nyi la nampar ta shying pungpo ngapo dedak la yang rangshyin gyi tongpar nampar ta o
+\q
+\b
+\v 83 dené sangye kyi tü tsé dang denpa sharibü changchub sempa sempa chenpo pakpa chenrezik wangchuk la diké ché mé so
+\b
+\q1 rik kyi bu gang lala sherab kyi parol tu chinpa zabmo chöpa chepar döpa dé jitar labpar ja
+\q
+\b
+\v 84 deké ché mepa dang | changchub sempa sempa chenpo pakpa chenrezik wangchuk gi tsé dang denpa shara datibu la diké ché mé so
+\q
+\b
+\v 85 sharibu rik kyi bu am rik kyi bumo gang lala sherab kyi parol tu chinpa zabmo chöpa chepar döpa dé ditar nampar tawar ja té pungpo ngapo dedak kyang rangshyin gyi tongpar nampar yangdakpar jesu ta o
+\b
+\q1 zuk tongpa o | tongpanyi kyang zuk so
+\b
+\q1 zuk lé tongpanyi shyen mayin no tongpanyi lé kyang zuk shyen mayin no
+\b
+\q1 deshyindu tsorwa dang | dushé dang dujé dang | nampar shepa nam tongpa o
+\b
+\q1 sharibu detawé na chö tamché tongpanyi dé tsennyi mepa | makyepa | magakpa
+\b
+\q1 magakpa | drima mepa | drima dang dralwa mepa driwa mepa | gangwa mepa o
+\q
+\b
+\v 86 sharibu detawé na tongpanyi la zukmé tsorwa mé | dushé mé | dujé nam mé | nampar shepa mé mik mé | nawa mé | na mé | che mé | lü mé | yi mé zuk mé | dra mé | dri mé | ro mé | rekja mé | chö mé do mik gi kham mepa né yi kyi kham mé yi kyi nampar shepé kham kyi bardu yang mé do
+\q
+\b
+\v 87 marikpa mé | marikpa zepa mepa né gashi mé gashi zepé bardu yang mé do dukngalwa dang | künjungwa dang gokpa dang | lam mé | yeshe mé | tobpa mé matobpa yang mé do
+\b
+\q1 sharibu detawé na changchub sempa nam tobpa mepé chir
+\q
+\b
+\v 88 sherab kyi parol tu chinpa la ten ching né té sem la dribpa mepé trakpa mé dé chin chi lok lé shintu dé né nya ngen lé depé tarchin to
+\q
+\b
+\v 89 dü sum du nampar shyukpé sangye tamché kyang sherab kyi parol tu chinpa la ten né lana mepa yangdakpar dzokpé changchub tu ngönpar dzokpar sangye so
+\q
+\b
+\v 90 detawé na sherab kyi parol tu chinpé ngak rigpa chenpö ngak | lana mepé ngak minyampa dang nyampé ngak | dukngal tamché rabtu shyiwar jepé ngak midzünpé na denpar shepar ja té sherab kyi parol tu chinpé ngak mepa
+\q
+\b
+\v 91 teyata | om gaté gaté para gaté | para samgaté | bodhi soha
+\q
+\b
+\v 92 sharibu changchub sempa sempa chenpö detar sherab kyi parol tu chinpa zabmo la labpar ja o
+\q
+\b
+\v 93 dené chomdendé ting ngé dzin dé lé shyeng té changchub sempa sempa chenpo pakpa chenrezik wangchuk la lek so shyejawa jin né lek so lek so | rik kyi bu de deshyin no
+\q
+\b
+\v 94 rik kyi bu de deshyin té jitar khyö kyi tenpa deshyindu sherab kyi parol tu chinpa zabmo la chepar ja té deshyin shekpa nam kyang jesu yi rang ngo
+\q
+\b
+\v 95 chomdendé kyi deké ché katsal né tsé dang denpa sharibu dang changchub sempa sempa chenpo pakpa chenrezik wangchuk dang tamché dang denpé khor dedak dang | lha dang | mi dang lha mayin dang | drizar chepé jikten yi rang té chomdendé kyi sungpa la ngönpar tö do
+\q
+\b
+\v 96 teyata | om gaté gaté para gaté | para samgaté | bodhi soha
+\q
+\b
+\v 97 gang gi ten ching drelwar jung
+\q1 gakpa mepa kyé mepa
+\q1 chepa mepa tak mepa
+\q1 ongwa mepa dro mepa
+\q
+\b
+\v 98 tadé dön min dön chik min
+\q1 tröpa nyershyi shyi tönpa
+\q1 dzokpé sangye ma nam kyi
+\q1 dampa dé la chaktsal lo
+\q
+\b
+\s The King of Aspiration Prayers: Samantabhadra’s “Aspiration to Good Actions” (Zangchö Mönlam)
+\q
+\b
+\mr jampal shyönnur gyurpa la chaktsal lo
+\q
+\b
+\v 99 jinyé su dak chok chü jikten na
+\q1 dü sum shekpa mi yi sengé kün
+\q1 dak gi malü dedak tamché la
+\q1 lü dang ngak yi dangwé chak gyi o
+\q
+\b
+\v 100 zangpo chöpé mönlam tob dak gi
+\q1 gyalwa tamché yi kyi ngönsum du
+\q1 shying gi dul nyé lü rab tüpa yi
+\q1 gyalwa kün la rabtu chaktsal lo
+\q
+\b
+\v 101 dul chik teng na dul nyé sangye nam
+\q1 sangye sé kyi ü na shyukpa dak
+\q1 detar chö kyi ying nam malüpa
+\q1 tamché gyalwa dak gi gangwar mö
+\q
+\b
+\v 102 dedak ngakpa mizé gyatso nam
+\q1 yang kyi yenlak gyatsö dra kün gyi
+\q1 gyalwa kün gyi yönten rab jö ching
+\q1 dewar shekpa tamché dak gi tö
+\q
+\b
+\v 103 metok dampa trengwa dampa dang
+\q1 silnyen nam dang jukpa duk chok dang
+\q1 marmé chok dang dukpö dampa yi
+\q1 gyalwa dedak la ni chöpar gyi
+\q
+\b
+\v 104 naza dampa nam dang dri chok dang
+\q1 chema purma rirab nyampa dang
+\q1 köpa khyepar pakpé chok kün gyi
+\q1 gyalwa dedak la ni chöpar gyi
+\q
+\b
+\v 105 chöpa gang nam lamé gya chewa
+\q1 dedak gyalwa tamché la yang mö
+\q1 zangpo chö la depé tob dak gi
+\q1 gyalwa kün la chaktsal chöpar gyi
+\q
+\b
+\v 106 döchak shyedang timuk wang gi ni
+\q1 lü dang ngak dang deshyin yi kyi kyang
+\q1 dikpa dak gi gyipa chi chipa
+\q1 dedak tamché dak gi sosor shak
+\q
+\b
+\v 107 chok chü gyalwa kün dang sangye sé
+\q1 ranggyal nam dang lob dang mi lob dang
+\q1 drowa kün gyi sönam gangla yang
+\q1 dedak kün gyi jesu dak yi rang
+\q
+\b
+\v 108 gang nam chok chü jikten drönma nam
+\q1 changchub rimpar sangye machak nyé
+\q1 gönpo dedak dak gi tamché la
+\q1 khorlo lanamepar korwar kul
+\q
+\b
+\v 109 nya ngen da tön gang shyé dedak la
+\q1 drowa kün la pen shying dewé chir
+\q1 kalpa shying gi dul nyé shyukpar yang
+\q1 dak gi talmo rab jar solwar gyi
+\q
+\b
+\v 110 chaktsalwa dang chö ching shakpa dang
+\q1 jesu yi rang kul shying solwa yi
+\q1 gewa chungzé dak gi chi sakpa
+\q1 tamché dak gi changchub chir ngo o
+\q
+\b
+\v 111 depé sangye nam dang chok chu yi
+\q1 jikten dak na gang shyuk chöpar gyur
+\q1 gangyang majön dedak rab nyurwar
+\q1 sam dzok changchub rimpar sangye chön
+\q
+\b
+\v 112 chok chu galé shying nam jinyepa
+\q1 dedak gyacher yongsu dakpar gyur
+\q1 changchub shingwang drung shek gyalwa dang
+\q1 sangye sé kyi rabtu gangwar shok
+\q
+\b
+\v 113 chok chü semchen gang nam jinyé pa
+\q1 dedak taktu nemé dewar gyur
+\q1 drowa kün gyi chö kyi dön nam ni
+\q1 tünpar gyur ching rewa ang drubpar shok
+\q
+\b
+\v 114 changchub chöpa dak ni dak chö ching
+\q1 drowa küntu kyewa drenpar gyur
+\q1 tserab küntu chipo kyewa na
+\q1 taktu dak ni rabtu jungwar shok
+\q
+\b
+\v 115 gyalwa kün gyi jesu lob gyur té
+\q1 zangpo chöpa yongsu dzok jé ching
+\q1 tsultrim chöpa drimé yong dakpa
+\q1 taktu manyam kyönmé chöpar shok
+\q
+\b
+\v 116 lha yi ké dang lu dang nöjin ké
+\q1 drulbum dak dang mi yi ké nam dang
+\q1 drowa kün gyi dra nam ji tsampar
+\q1 tamché ké du dak gi chö ten to
+\q
+\b
+\v 117 dé shing parol chin la rab tsön té
+\q1 changchub sem ni namyang jé magyur
+\q1 dikpa gang nam dribpar gyurpa dak
+\q1 dedak malü yongsu jangwar shok
+\q
+\b
+\v 118 lé dang nyönmong dü kyi lé nam lé
+\q1 drol shying jikten drowa nam su yang
+\q1 jitar pemo chü michakpa shyin
+\q1 nyida namkhar tokpamé tar ché
+\q
+\b
+\v 119 shying gi khyön dang chok nam chi tsampar
+\q1 ngensong dukngal rabtu shyiwar jé
+\q1 dewa dak la drowa kün gö ching
+\q1 drowa tamché la ni penpar ché
+\q
+\b
+\v 120 changchub chöpa yongsu dzokjé ching
+\q1 semchen dak gi chö dang tünpar juk
+\q1 zangpo chöpa dak ni rab tön ching
+\q1 ma ong kalpa küntu chöpar gyur
+\q
+\b
+\v 121 dak gi chö dang tsungpar gang chöpa
+\q1 dedak dang ni taktu drokpar shok
+\q1 lü dang ngak nam dang ni sem kyi kyang
+\q1 chöpa dak dang mönlam chik tu ché
+\q
+\b
+\v 122 dak la penpar döpé drokpo dak
+\q1 zangpo chöpa rabtu tönpa nam
+\q1 dedak dang yang taktu trepar shok
+\q1 dedak dak gi namyang yi miyung
+\q
+\b
+\v 123 sangye sé kyi korwé gönpo nam
+\q1 ngönsum taktu dak gi gyalwa ta
+\q1 ma ong kalpa küntu mikyowar
+\q1 dedak la yang chöpa gyacher gyi
+\q
+\b
+\v 124 gyalwa nam kyi dampé chö dzin ching
+\q1 changchub chöpa küntu nangwar jé
+\q1 zangpo chöpa nampar jongwa yang
+\q1 ma ong kalpa küntu chepar gyi
+\q
+\b
+\v 125 sipa tamché du yang khorwa na
+\q1 sönam yeshe dak ni mizé nyé
+\q1 tab dang sherab tingdzin namtar dang
+\q1 yönten kün gyi mizé dzö du gyur
+\q
+\b
+\v 126 dul chik teng na dul nyé shying nam té
+\q1 shying der sam gyi mikhyab sangye nam
+\q1 sangye sé kyi ü na shyukpa la
+\q1 changchub chepa chö ching tawar gyi
+\q
+\b
+\v 127 detar malü tamché chok su yang
+\q1 tra tsam khyön la dü sum tsé nyé kyi
+\q1 sangye gyatso shying nam gyatso dang
+\q1 kalpa gyatso chö ching rabtu juk
+\q
+\b
+\v 128 sung chik yenlak gyatsö draké kyi
+\q1 gyalwa kün yang yenlak namdakpa
+\q1 drowa kün gyi sampa jishyin yang
+\q1 sangye sung la taktu jukpar gyi
+\q
+\b
+\v 129 dü sum shekpé gyalwa tamché dak
+\q1 khorlö tsul nam rabtu korwa yi
+\q1 dedak gi yang sung yang mizé la
+\q1 lo yi tob kyi dak kyang rabtu juk
+\q
+\b
+\v 130 ma ong kalpa tamché jukpar yang
+\q1 kechik chik gi dak kyang jukpar gyi
+\q1 gangyang kalpa dü sum tsé dedak
+\q1 kechik chashé kyi ni shyukpar ché
+\q
+\b
+\v 131 dü sum shekpa mi yi sengé gang
+\q1 dedak kechik chik la dak gi ta
+\q1 taktu dedak gi ni chöyul la
+\q1 gyumar gyurpé namtar tob kyi juk
+\q
+\b
+\v 132 gangyang dü sum dak gi shying köpa
+\q1 dedak dul chik tengdu ngönpar drub
+\q1 detar malü chok nam tamché du
+\q1 gyalwa dak gi shying nam kö la juk
+\q
+\b
+\v 133 gangyang majön jikten drönma nam
+\q1 dedak rimpar tsang gya khorlo kor
+\q1 nya ngen depa rabtu shyi ta tön
+\q1 gönpo kün gyi drung du dak chi o
+\q
+\b
+\v 134 küntu nyurwé dzutrul tob nam dang
+\q1 künné go yi tekpé tob dak dang
+\q1 küntu yönten chöpé tob nam dang
+\q1 küntu khyabpa jampa dak gi tob
+\q
+\b
+\v 135 künné gewé sönam tob dak dang
+\q1 chakpa mepar gyurpé yeshe tob
+\q1 sherab tab dang tingdzin tob dak gi
+\q1 changchub tob nam yangdak drubpar jé
+\q
+\b
+\v 136 lé kyi tob nam yongsu dakjé ching
+\q1 nyönmong tob nam küntu jompar jé
+\q1 dü kyi tob nam tobmé rabjé ching
+\q1 zangpo chöpé tob ni dzokpar gyi
+\q
+\b
+\v 137 shying nam gyatso nampar dakjé ching
+\q1 semchen gyatso dak ni nampar drol
+\q1 chö nam gyatso rabtu tongjé ching
+\q1 yeshe gyatso rabtu tokpar jé
+\q
+\b
+\v 138 chöpa gyatso nampar dakjé ching
+\q1 mönlam gyatso yongsu dzokpar jé
+\q1 sangye gyatso rabtu chöjé ching
+\q1 kalpa gyatso mikyo chepar gyi
+\q
+\b
+\v 139 gangyang dü sum shekpé gyalwa yi
+\q1 changchub chöpé mönlam jedrak nam
+\q1 zangpo chöpé changchub sangye né
+\q1 dé kün dak gi malü dzokpar gyi
+\q
+\b
+\v 140 gyalwa kün gyi sé kyi tuwopa
+\q1 gang gi ming ni kuntuzang shyeja
+\q1 khepa dé dang tsungpar chepé chir
+\q1 gewa didak tamché rabtu ngo
+\q
+\b
+\v 141 lü dang ngak dang yi kyang namdak ching
+\q1 chöpa namdak shying nam yong dakpa
+\q1 ngowa zangpo khepa chindrawa
+\q1 dendrar dak kyang dé dang tsungpar shok
+\q
+\b
+\v 142 künné gewa zangpo chepé chir
+\q1 jampal gyi ni mönlam chepar gyi
+\q1 ma ong kalpa küntu mikyowar
+\q1 dé yi jawa malü dzokpar gyi
+\q
+\b
+\v 143 chöpa dak ni tsé yö magyur chik
+\q1 yönten nam kyang tsé zung mepar shok
+\q1 chöpa tsemepa la né né kyang
+\q1 dedak trulpa tamché tsalwar gyi
+\q
+\b
+\v 144 namkhé tartuk gyurpa ji tsampar
+\q1 semchen malü ta yang deshyin té
+\q1 ji tsam lé dang nyönmong tar gyurpa
+\q1 dak gi mönlam ta yang detsam mo
+\q
+\b
+\v 145 gangyang chok chü shying nam tayepa
+\q1 rinchen gyen té gyalwa nam la pul
+\q1 lha dang mi yi dewé chok nam kyang
+\q1 shying gi dul nyé kalpar pulwa bé
+\q
+\b
+\v 146 gang gi ngowé gyalpo di tö né
+\q1 changchub chok gi jesu rab mö shing
+\q1 len chik tsam yang depa kyepa na
+\q1 sönam dampé chok tu di gyur ro
+\q
+\b
+\v 147 gang gi zangchö mönlam di tabpé
+\q1 dé ni ngensong tamché pongwar gyur
+\q1 dé ni drokpo ngenpa pangwa yin
+\q1 nangwa tayé deyang dé nyur tong
+\q
+\b
+\v 148 dedak nyepa rab nyé dewar tso
+\q1 mitsé dir yang dedak lekpar ong
+\q1 kuntuzangpo deyang chindrawar
+\q1 dedak ringpor mitok deshyin gyur
+\q
+\b
+\v 149 tsammé ngapo dak gi dikpa nam
+\q1 gang gi mishe wang gi jepa dak
+\q1 dé yi zangpo chöpa di jö na
+\q1 nyurdu malü yongsu jangwar gyur
+\q
+\b
+\v 150 yeshe dang ni zuk dang tsen nam dang
+\q1 rik dang khadok nam dang denpar gyur
+\q1 dü dang mutek mangpö dé mitub
+\q1 jikten sumpo kün na ang chöpar gyur
+\q
+\b
+\v 151 changchub shingwang drung du dé nyur dro
+\q1 song né semchen pen chir der duk té
+\q1 changchub sangye khorlo rabtu kor
+\q1 dü nam dé dang chepa tamché tul
+\q
+\b
+\v 152 gangyang zangpo chöpé mönlam di
+\q1 changwa dang ni tön tam lok na yang
+\q1 dé yi nampar minpa ang sangye khyen
+\q1 changchub chok la somnyi majé chik
+\q
+\b
+\v 153 jampal pawö jitar khyenpa dang
+\q1 kuntuzangpo deyang deshyin té
+\q1 dedak kün gyi jesu dak lob chir
+\q1 gewa didak tamché rabtu ngo
+\q
+\b
+\v 154 dü sum shekpé gyalwa tamché kyi
+\q1 ngowa gangla chok tu ngakpa dé
+\q1 dak gi gewé tsawa di kün kyang
+\q1 zangpo chö chir rabtu ngowar gyi
+\q
+\b
+\v 155 dak ni chiwé dü jé gyurpa na
+\q1 dribpa tamché dak ni chir sal té
+\q1 ngönsum nangwa tayé dé tong né
+\q1 dewachen gyi shying der rabtu dro
+\q
+\b
+\v 156 der song né ni mönlam didak kyang
+\q1 tamché malü ngön du gyurwar shok
+\q1 dedak malü dak gi yongsu kang
+\q1 jikten jisi semchen penpar gyi
+\q
+\b
+\v 157 \q1 gyalwé kyilkhor zang shying gawa der
+\q1 pemo dampa shintu dzé lé kyé
+\q1 nangwa tayé gyalwé ngönsum du
+\q1 lungtenpa yang dak gi der tob shok
+\q
+\b
+\v 158 der ni dak gi lungten rab tob né
+\q1 trulpa mangpo jewa trak gya yi
+\q1 lo yi tob kyi chok chu nam su yang
+\q1 semchen nam la penpa mangpo gyi
+\q
+\b
+\v 159 zangpo chöpé mönlam tabpa yi
+\q1 gewa chungzé dak gi chi sakpa
+\q1 dé ni drowé mönlam gewa nam
+\q1 kechik chik gi tamché jorwar shok
+\q
+\b
+\v 160 gangyang zangpo chöpa di ngöpé
+\q1 sönam tayé dampa gang tob dé
+\q1 drowa dukngal chuwor jingwa nam
+\q1 öpakmepé né rab tobpar shok
+\q
+\b
+\v 161 mönlam gyalpo didak chok gi tso
+\q1 tayé drowa kün la pen jé ching
+\q1 kuntuzangpö gyenpé shyung drub té
+\q1 ngensong né nam malü tongpar shok
+\q
+\b
+\q1 This completes the King of Aspiration Prayers, Samantabhadra’s “Aspiration to Good Actions.”
+\b
+\s Prayer for the Future of the Dharma
+\q
+\b
+\v 162 sangye namzik tsuktor tamché kyob
+\q1 khorwa jik dang sertub ösung dang
+\q1 shakya tubpa gautam lha yi lha
+\q1 sangye pawo dün la chaktsal lo
+\q
+\b
+\v 163 semchen döndu dak gi ngön
+\q1 kawa gangshyik ché gyur dang
+\q1 dak gi dewa tangwa yi
+\q1 tenpa yün ring bar gyur chik
+\q
+\b
+\v 164 ngé ngön nepé ché dak tu
+\q1 rang gi tsowa yong tangwé
+\q1 semchen pongpa kyabpé chir
+\q1 tenpa yün ring bar gyur chik
+\q
+\b
+\v 165 bu dang bumo chungma dang
+\q1 nor dang langchen shingta dang
+\q1 rinchen changchub chir tangwé
+\q1 tenpa yün ring bar gyur chik
+\q
+\b
+\v 166 dak gi sangye rangsang gyé
+\q1 nyentö pa dang ma dang ni
+\q1 drangsong dak la chö jepé
+\q1 tenpa yün ring bar gyur chik
+\q
+\b
+\v 167 kalpa jewa dumar dak
+\q1 dukngal natsok nyong gyur ching
+\q1 changchub döndu tö tsalwé
+\q1 tenpa yün ring bar gyur chik
+\q
+\b
+\v 168 dak gi tsultrim tulshyuk dang
+\q1 katub yün ring tenjé shing
+\q1 chok chü sangye ngé chöpé
+\q1 tenpa yün ring bar gyur chik
+\q
+\b
+\v 169 dak ngön tsöndrü dang denpé
+\q1 taktu ten ching parol nön
+\q1 semchen tamché dral döndu
+\q1 tenpa yün ring bar gyur chik
+\q
+\b
+\v 170 zö tul taktu tenjé shing
+\q1 semchen nyönmong nyikma yi
+\q1 semchen ngen zöjé gyurpé
+\q1 tenpa yün ring bar gyur chik
+\q
+\b
+\v 171 samten namtar zukmé dang
+\q1 tingdzin gangé jé nyepa
+\q1 gompé dé tü dak gi ni
+\q1 tenpa yün ring bar gyur chik
+\q
+\b
+\v 172 yeshe döndu dak gi ngön
+\q1 katub nak dak tenjé shing
+\q1 tenchö duma nyer tenpé
+\q1 tenpa yün ring bar gyur chik
+\q
+\b
+\v 173 tsewé gyu yi sha trak dang
+\q1 tsowa yongsu tang gyur ching
+\q1 yenlak nying lak tangpa yi
+\q1 chö tsul nampar pel gyur chik
+\q
+\b
+\v 174 dak ngön dikpé semchen nam
+\q1 jampé salwar minjé shing
+\q1 tekpa sum la rab köpé
+\q1 chö kyi chöjin gyé gyur chik
+\q
+\b
+\v 175 dak ngön tabshé gyurpa na
+\q1 semchen ta ngen lé dral shying
+\q1 yangdak ta la kö jepé
+\q1 chö ni nampar pel gyur chik
+\q
+\b
+\v 176 dak gi semchen du ngö shyi
+\q1 nyönmong mé lé tarjé shing
+\q1 dak gi pel dik pam jepé
+\q1 dak khor yün ring né gyur chik
+\q
+\b
+\v 177 dak gi mutek chen shyendak
+\q1 tawé chu lé draljé té
+\q1 yangdak ta la kö gyurpé
+\q1 dak khor taktu gü gyur chik
+\q1 yün ring tenpa bar gyur chik
+\q
+\b
+\s The Sage's Harmonious Song of Truth; A Prayer for the Flourishing of the Non-Sectarian Teachings of the Buddha
+\q
+\b
+\v 178 ku shyi daknyi künkhyen nyimé nyen
+\q1 tsé öpakmé pakchok chenrezig
+\q1 jamyang sangdak drolma tronyer chen
+\q1 gyal dang gyalsé sempé tsok nam dang
+\q
+\b
+\v 179 té rab ché dün gyen druk chok nyipo
+\q1 drubchen gyechu neten chudruk sok
+\q1 ten dang dro la chik tu pen shyepa
+\q1 kyechok sempa malü gong su sol
+\q
+\b
+\v 180 tubpa chok gi drangmé kalpa ru
+\q1 sönam yeshé tsok nyi rabdzok té
+\q1 khyentsé nüpa tar sön denpé tü
+\q1 yongdzok gyalten yün ring bar gyur chik
+\q
+\b
+\v 181 gangri jong su tubten nangwé go
+\q1 tokmar jé dzé khen lob chögyal sum
+\q1 lopen rigdzin jebang tukkyé tü
+\q1 gangjong gyalten yün ring bar gyur chik
+\q
+\b
+\v 182 gyachen ka yi norbü ding khang du
+\q1 zabmö drubdé chö kyi ter chenpo
+\q1 zab yang nyingtik ö nön rabtu tser
+\q1 gangjong gyalten yün ring bar gyur chik
+\q
+\b
+\v 183 kadak ösal nyingpö longchen por
+\q1 khordé chö kün ub chub tekpé tsé
+\q1 kunzang dömé gyalsar dröpé tab
+\q1 gangjong gyalten yün ring bar gyur chik
+\q
+\b
+\v 184 zabmö ta dang gyachen chöpé gyü
+\q1 yong dzok dampé dzö nga a ti sha
+\q1 gyalwé jungné lé ong dampé sol
+\q1 gangjong gyalten yün ring bar gyur chik
+\q
+\b
+\v 185 denö sum gyi düpé gyalwé ka
+\q1 dampa kyebu sum du lek drikpa
+\q1 lha chödün kadam ser gyi treng
+\q1 gangjong gyalten yün ring bar gyur chik
+\q
+\b
+\v 186 dragyur marpa shyepa dorjé sok
+\q1 jinlab jungné kagyü norbü dzö
+\q1 tsungmé rimjön kasol mejung ba
+\q1 gangjong gyalten yün ring bar gyur chik
+\q
+\b
+\v 187 khordé chö kün lhenkyé sem kyi dang
+\q1 semnyi trödral chökü ngowor tok
+\q1 nangsi khordé künkhyab chakgya ché
+\q1 gangjong gyalten yün ring bar gyur chik
+\q
+\b
+\v 188 chinang rikné do ngak shyung gyé né
+\q1 ché tsö tsompé tubten kyong khepa
+\q1 lha rik khön tön tsé chen sakyapa
+\q1 gangjong gyalten yün ring bar gyur chik
+\q
+\b
+\v 189 sung ngak nyengyü tsema shyiden gyi
+\q1 gyu lamdré bü nyamlen ché zab né
+\q1 naljor wangchuk khyechö dampé sol
+\q1 gangjong gyalten yün ring bar gyur chik
+\q
+\b
+\v 190 zabmo umé ta dang nyer drelwé
+\q1 sang chen dorjé tekpé rim nyi lam
+\q1 zabsal pel khé lo zang gyalwé ten
+\q1 gangjong gyalten yün ring bar gyur chik
+\q
+\b
+\v 191 denö sum dang gyüdé shyi yi dön
+\q1 yongdzok lam gyi ngowo gorim nam
+\q1 manor nyam su lenpé luk zang chok
+\q1 gangjong gyalten yün ring bar gyur chik
+\q
+\b
+\v 192 dogyü shyen dang shé sol mi tsungpé
+\q1 chinang shyen sum dü kyi khorlo yi
+\q1 lungtok kabab bu jo luk zung gi
+\q1 gangjong gyalten yün ring bar gyur chik
+\q
+\b
+\v 193 dorna shepé ka ché nam chu dang
+\q1 drubgyü shingta chi dang shyijé sok
+\q1 do ngak zung drel mengak dumé chuk
+\q1 gangjong gyalten yün ring bar gyur chik
+\q
+\b
+\v 194 tendzin shyabten tuktün gendün nam
+\q1 tenpa khorlo sum gyi kyongwa dang
+\q1 ten la depé kyebü sateng khyab
+\q1 rimé gyalten yün ring bar gyur chik
+\q
+\b
+\v 195 jikten küntu maktruk mugé dang
+\q1 duktsub samjor ming yang mi drak shing
+\q1 yichen jamden nöchü getsen pel
+\q1 dé ga gyatsö chok künkhyab gyur chik
+\q
+\b
+\v 196 \q1 dak kyang deng né yongdzok tenpé lam
+\q1 gyachen semkyé zabmo tawa la
+\q1 tö sam gompé chik tu tsönpa yi
+\q1 tral yün ten dé sa la nyur rek shok
+\q
+\b
+\v 197 namkhé té tuk gyurpé semchen chir
+\q1 tubwang gyalsé yi ong chöpa la
+\q1 shyum dang ngen shyen lelo mepa dang
+\q1 yiché dünpé tro gé jukpar shok
+\q
+\b
+\v 198 dak gi lü dang longchö gewa nam
+\q1 ma nam dewé gyu ru gyurwa dang
+\q1 dedak kün gyi duk kün gang chipa
+\q1 dé kün dak la yongsu minpar shok
+\q
+\b
+\v 199 dak ni tong tö dren dang mö jepa
+\q1 kün kyang dé gé pal la chöpa dang
+\q1 mö dang dek tsok mi nyen drok jepa ang
+\q1 tamché changchub lam gyi kalden shok
+\q
+\b
+\v 200 dorna jisi nam ga nepa dang
+\q1 drowé dukngal nepa desi du
+\q1 dak kyang né té ngö dang gyüpa yi
+\q1 pendé jepo nyi du gyurwar shak
+\b
