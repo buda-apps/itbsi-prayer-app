@@ -1,7 +1,7 @@
 \mt2 A Collection of Tibetan Buddhist Chanting
 \q
 \b
-\v1 sangye chö dang tsok gyi chok nam la
+\v 1 sangye chö dang tsok gyi chok nam la
 \q1 changchub bardu dak ni kyab su chi
 \q1 dak gi jin sok gyipé sönam kyi
 \q1 dro la pen chir sangye drubpar shok
@@ -48,7 +48,7 @@
 \v 23 dampé chö ni tokmar géwa bardu géwa tamar géwa dön zangpo tsik dru zangpo madrépa yongsu dzokpa yongsu dakpa yongsu jangwa 
 \q
 \b
-\v 24chomdendé kyi chö lekpar sungpa yangdakpar tongwa né mépa dü chépa mépa nyewar töpa di tongwa la dön yöpa khépa nam kyi soso rang gi rigpar chawa chomdendé kyi sungpé chö dulwa la lekpar tenpa ngépar jungwa dzokpé changchub tu drowar chépa mi tünpa mé ching düpa dang denpa tenpa yöpa gyuwa chépa o
+\v 24 chomdendé kyi chö lekpar sungpa yangdakpar tongwa né mépa dü chépa mépa nyewar töpa di tongwa la dön yöpa khépa nam kyi soso rang gi rigpar chawa chomdendé kyi sungpé chö dulwa la lekpar tenpa ngépar jungwa dzokpé changchub tu drowar chépa mi tünpa mé ching düpa dang denpa tenpa yöpa gyuwa chépa o
 \q
 \b
 \v 25 tekpa chenpöi gendün ni lekpar shyukpa rigpar shyukpa drangpor shyukpa tünpar shyukpa talmo jarwé ö su gyurpa chak chawé ö su gyurpa sönam kyi pal gyi shying yön yong su jongwa chenpo jinpé né su gyurpa kuntu yang jinpé né su gyurpa chenpo o
@@ -205,7 +205,7 @@
 \q1 go pang nyurwa nyi du tob gyur né
 \q1 nam kha ji si drowé dön che shok
 \b
-s\The Flower of Faith: A Prayer to the Twenty-Five Founders of Buddha's Teachings in Tibet
+\s The Flower of Faith: A Prayer to the Twenty-Five Founders of Buddha's Teachings in Tibet
 \q
 \b
 \v 51 tsa sum kün dü loppön pema jung

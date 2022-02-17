@@ -434,7 +434,7 @@
 \v 86 Therefore, Śāriputra, in emptiness, there is no form, No sensation, no recognition, no conditioning factors, no consciousness; No eye, no ear, no nose, no tongue, no body, no mind; No visible form, no sound, no odour, no taste, no texture, and no mental objects; There is no eye element up to no mind element; And as far as no mental consciousness element;
 \q
 \b
-\87 There is no ignorance, no extinction of ignorance up to no old age and death, No extinction of old age and death; No suffering, no origin, No cessation, no path, no wisdom, no attainment, And no non-attainment.
+\v 87 There is no ignorance, no extinction of ignorance up to no old age and death, No extinction of old age and death; No suffering, no origin, No cessation, no path, no wisdom, no attainment, And no non-attainment.
 \b
 \q1 Therefore, Śāriputra, since bodhisattvas have no attainment,
 \q
@@ -460,19 +460,19 @@
 \v 94 That is just how it is. One should practise the profound perfection of wisdom just as you have taught And then even the tathāgatas will rejoice.”
 \q
 \b
-v\ 95 When the Blessed One had said this, Venerable Śāriputra, and Noble Avalokiteśvara, the bodhisattva and great being, Together with the whole assembly and the world of gods, human beings, Asuras and gandharvas rejoiced and praised The speech of the Blessed One.
+\v 95 When the Blessed One had said this, Venerable Śāriputra, and Noble Avalokiteśvara, the bodhisattva and great being, Together with the whole assembly and the world of gods, human beings, Asuras and gandharvas rejoiced and praised The speech of the Blessed One.
 \q
 \b
-v\ 96 tadyathā | oṃ gate gate pāragate | pārasaṃgate | bodhi svāhā
+\v 96 tadyathā | oṃ gate gate pāragate | pārasaṃgate | bodhi svāhā
 \q
 \b
-v\97 Everything that arises interdependently
+\v 97 Everything that arises interdependently
 \q1 Is unceasing and unborn,
 \q1 Neither non-existent nor everlasting,
 \q1 Neither coming nor going,
 \q
 \b
-v\ 98 Neither multiple nor single.
+\v 98 Neither multiple nor single.
 \q1 To this teaching that pacifies all concepts and duality,
 \q1 The most sacred speech of the fully enlightened Buddha,
 \q1 We pay homage!
@@ -484,378 +484,378 @@ v\ 98 Neither multiple nor single.
 \mr Homage to Mañjuśrī, the youthful!
 \q
 \b
-v\ 99 To all the buddhas, the lions of the human race,
+\v 99 To all the buddhas, the lions of the human race,
 \q1 In all directions of the universe, through past and present and future:
 \q1 To every single one of you, I bow in homage;
 \q1 Devotion fills my body, speech and mind.
 \q
 \b
-v\ 100 Through the power of this prayer, aspiring to Good Action,
+\v 100 Through the power of this prayer, aspiring to Good Action,
 \q1 All the victorious ones appear, vivid here before my mind
 \q1 And I multiply my body as many times as atoms in the universe,
 \q1 Each one bowing in prostration to all the buddhas.
 \q
 \b
-v\ 101 In every atom preside as many buddhas as there are atoms,
+\v 101 In every atom preside as many buddhas as there are atoms,
 \q1 And around them, all their bodhisattva heirs:
 \q1 And so I imagine them filling
 \q1 Completely the entire space of reality.
 \q
 \b
-v\ 102 Saluting them with an endless ocean of praise,
+\v 102 Saluting them with an endless ocean of praise,
 \q1 With the sounds of an ocean of different melodies
 \q1 I sing of the buddhas’ noble qualities,
 \q1 And praise all those who have gone to perfect bliss.
 \q
 \b
-v\ 103 To every buddha, I make offerings:
+\v 103 To every buddha, I make offerings:
 \q1 Of the loveliest flowers, of beautiful garlands,
 \q1 Of music and perfumed ointments, the best of parasols,
 \q1 The brightest lamps and finest incense.
 \q
 \b
-v\ 104 To every buddha, I make offerings:
+\v 104 To every buddha, I make offerings:
 \q1 Exquisite garments and the most fragrant scents,
 \q1 Powdered incense, heaped as high as Mount Meru,
 \q1 Arranged in perfect symmetry.
 \q
 \b
-v\ 105 Then the vast and unsurpassable offerings—
+\v 105 Then the vast and unsurpassable offerings—
 \q1 Inspired by my devotion to all the buddhas, and
 \q1 Moved by the power of my faith in Good Actions—
 \q1 I prostrate and offer to all you victorious ones.
 \q
 \b
-v\ 106 Whatever negative acts I have committed,
+\v 106 Whatever negative acts I have committed,
 \q1 While driven by desire, hatred and ignorance,
 \q1 With my body, my speech and also with my mind,
 \q1 Before you, I confess and purify each and every one.
 \q
 \b
-v\ 107 With a heart full of delight, I rejoice at all the merits
+\v 107 With a heart full of delight, I rejoice at all the merits
 \q1 Of buddhas and bodhisattvas,
 \q1 Pratyekabuddhas, those in training and the arhats beyond training,
 \q1 And every living being, throughout the entire universe.
 \q
 \b
-v\ 108 You who are like beacons of light shining through the worlds,
+\v 108 You who are like beacons of light shining through the worlds,
 \q1 Who passed through the stages of enlightenment, to attain buddhahood, freedom from all attachment,
 \q1 I exhort you: all of you protectors,
 \q1 Turn the unsurpassable wheel of Dharma.
 \q
 \b
-v\ 109 Joining my palms together, I pray
+\v 109 Joining my palms together, I pray
 \q1 To you who intend to pass into nirvāṇa,
 \q1 Remain, for aeons as many as the atoms in this world,
 \q1 And bring well-being and happiness to all living beings.
 
-v\ 110 What little virtue I have gathered through my homage,
+\v 110 What little virtue I have gathered through my homage,
 \q1 Through offering, confession, and rejoicing,
 \q1 Through exhortation and prayer—all of it
 \q1 I dedicate to the enlightenment of all beings!
 \q
 \b
-v\ 111 Let offerings be made to buddhas of the past,
+\v 111 Let offerings be made to buddhas of the past,
 \q1 And all who now dwell throughout the ten directions of this universe!
 \q1 Let all who are yet to come swiftly fulfil their wishes
 \q1 And attain the stages of enlightenment and buddhahood!
 \q
 \b
-v\ 112 Let as many worlds as there are in all the ten directions
+\v 112 Let as many worlds as there are in all the ten directions
 \q1 Transform into realms that are vast and utterly pure,
 \q1 Filled with buddhas who have sat before the mighty bodhi tree,
 \q1 Around them all their bodhisattva sons and daughters!
 \q
 \b
-v\ 113 Let as many sentient beings as there are in all the ten directions
+\v 113 Let as many sentient beings as there are in all the ten directions
 \q1 Live always and forever in happiness and health!
 \q1 Let all beings meet the Dharma
 \q1 That befits them best! And so may all they hope for be fulfilled!
 \q
 \b
-v\ 114 As I practise the training for enlightenment,
+\v 114 As I practise the training for enlightenment,
 \q1 May I recall all my previous births,
 \q1 And in my successive lives, through death and through rebirth,
 \q1 May I always renounce the worldly life!
 \q
 \b
-v\ 115 Training in the footsteps of all the victorious buddhas,
+\v 115 Training in the footsteps of all the victorious buddhas,
 \q1 May I bring Good Actions to perfection,
 \q1 And my moral conduct be taintless and pure,
 \q1 Never lapsing, and always free from fault!
 \q
 \b
-v\ 116 In the language of the gods, nāgas, and yakṣas,
+\v 116 In the language of the gods, nāgas, and yakṣas,
 \q1 In the language of demons and of humans too,
 \q1 In however many kinds of speech there may be—
 \q1 I shall proclaim the Dharma in the language of all!
 \q
 \b
-v\ 117 Taming my mind, and striving in the pāramitās,
+\v 117 Taming my mind, and striving in the pāramitās,
 \q1 I will never forget the bodhicitta;
 \q1 May all my harmful actions and the obscurations they cause
 \q1 Be completely purified, every single one!
 \q
 \b
-v\ 118 May I be freed from karma, harmful emotions, and the work of negativity,
+\v 118 May I be freed from karma, harmful emotions, and the work of negativity,
 \q1 And act for all beings in the world,
 \q1 Just like the lotus flower to which mud and water cannot cling,
 \q1 Or sun and moon that course unhindered through the sky.
 \q
 \b
-v\ 119 Throughout the reach and range of the entire universe
+\v 119 Throughout the reach and range of the entire universe
 \q1 I shall pacify completely the suffering of all the lower realms,
 \q1 I shall lead all beings to happiness,
 \q1 And work for the ultimate benefit of each and every one!
 \q
 \b
-v\ 120 I shall bring enlightened action to perfection,
+\v 120 I shall bring enlightened action to perfection,
 \q1 Serve beings so as to suit their needs,
 \q1 Teach them to accomplish Good Actions,
 \q1 And continue this, throughout all the aeons to come!
 \q
 \b
-v\ 121 May I always meet and be accompanied by
+\v 121 May I always meet and be accompanied by
 \q1 Those whose actions accord with mine;
 \q1 And in body, speech and mind as well,
 \q1 May our actions and aspirations always be one!
 \q
 \b
-v\ 122 May I always meet spiritual friends
+\v 122 May I always meet spiritual friends
 \q1 Who long to be of true help to me,
 \q1 And who teach me the Good Actions;
 \q1 Never will I disappoint them!
 \q
 \b
-v\ 123 May I always behold the buddhas, here before my eyes,
+\v 123 May I always behold the buddhas, here before my eyes,
 \q1 And around them all their bodhisattva sons and daughters.
 \q1 Without ever tiring, throughout all the aeons to come,
 \q1 May the offerings I make them be endless and vast!
 \q
 \b
-v\ 124 May I maintain the sacred teachings of the buddhas,
+\v 124 May I maintain the sacred teachings of the buddhas,
 \q1 And cause enlightened action to appear;
 \q1 May I train to perfection in Good Actions,
 \q1 And practise these in every age to come!
 \q
 \b
-v\ 125 As I wander through all states of samsaric existence,
+\v 125 As I wander through all states of samsaric existence,
 \q1 May I gather inexhaustible merit and wisdom,
 \q1 And so become an inexhaustible treasury of noble qualities—
 \q1 Of skill and discernment, samādhi and liberation!
 \q
 \b
-v\ 126 In a single atom may I see as many pure realms as atoms in the universe:
+\v 126 In a single atom may I see as many pure realms as atoms in the universe:
 \q1 And in each realm, buddhas beyond all imagining,
 \q1 Encircled by all their bodhisattva heirs.
 \q1 Along with them, may I perform the actions of enlightenment!
 \q
 \b
-v\ 127 And so, in each direction, everywhere,
+\v 127 And so, in each direction, everywhere,
 \q1 Even on the tip of a hair, may I see an ocean of buddhas—
 \q1 All to come in past, present and future—in an ocean of pure realms,
 \q1 And throughout an ocean of aeons, may I enter into enlightened action in each and every one!
 \q
 \b
-v\ 128 Each single word of a buddha’s speech, that voice with its ocean of qualities,
+\v 128 Each single word of a buddha’s speech, that voice with its ocean of qualities,
 \q1 Bears all the purity of the speech of all the buddhas,
 \q1 Sounds that harmonize with the minds of all living beings:
 \q1 May I always be engaged with the speech of the buddhas!
 \q
 \b
-v\ 129 With all the power of my mind, may I hear and realize
+\v 129 With all the power of my mind, may I hear and realize
 \q1 The inexhaustible melody of the teachings spoken by
 \q1 All the buddhas of past, present and future,
 \q1 As they turn the wheels of Dharma!
 \q
 \b
-v\ 130 Just as the wisdom of the buddhas penetrates all future aeons,
+\v 130 Just as the wisdom of the buddhas penetrates all future aeons,
 \q1 So may I too know them, instantly,
 \q1 And in each fraction of an instant may I know
 \q1 All that will ever be, in past, present and future!
 \q
 \b
-v\ 131 In an instant, may I behold all those who are the lions of the human race—
+\v 131 In an instant, may I behold all those who are the lions of the human race—
 \q1 The buddhas of past, present and future!
 \q1 May I always be engaged in the buddhas’ way of life and action,
 \q1 Through the power of liberation, where all is realized as like an illusion!
 \q
 \b
-v\ 132 On a single atom, may I actually bring about
+\v 132 On a single atom, may I actually bring about
 \q1 The entire array of pure realms of past, of present and future;
 \q1 And then enter into those pure buddha realms
 \q1 In each atom, and in each and every direction.
 \q
 \b
-v\ 133 When those who illuminate the world, still to come,
+\v 133 When those who illuminate the world, still to come,
 \q1 Gradually attain buddhahood, turn the Wheel of Dharma,
 \q1 And demonstrate the final, profound peace of nirvāṇa:
 \q1 May I be always in their presence!
 \q
 \b
-v\ 134 Through the power of swift miracles,
+\v 134 Through the power of swift miracles,
 \q1 The power of the vehicle, like a doorway,
 \q1 The power of conduct that possesses all virtuous qualities,
 \q1 The power of loving kindness, all-pervasive,
 \q
 \b
-v\ 135 The power of merit that is totally virtuous,
+\v 135 The power of merit that is totally virtuous,
 \q1 The power of wisdom free from attachment, and
 \q1 The powers of knowledge, skilful means and samādhi,
 \q1 May I perfectly accomplish the power of enlightenment!
 \q
 \b
-v\ 136 May I purify the power of karma;
+\v 136 May I purify the power of karma;
 \q1 Destroy the power of harmful emotions;
 \q1 Render negativity utterly powerless;
 \q1 And perfect the power of Good Actions!
 \q
 \b
-v\ 137 I shall purify oceans of realms;
+\v 137 I shall purify oceans of realms;
 \q1 Liberate oceans of sentient beings;
 \q1 Understand oceans of Dharma;
 \q1 Realize oceans of wisdom;
 \q
 \b
-v\ 138 Perfect oceans of actions;
+\v 138 Perfect oceans of actions;
 \q1 Fulfil oceans of aspirations;
 \q1 Serve oceans of buddhas!
 \q1 And perform these, without ever growing weary, through oceans of aeons!
 \q
 \b
-v\ 139 All the buddhas throughout the whole of time,
+\v 139 All the buddhas throughout the whole of time,
 \q1 Attained enlightenment through Good Actions, and
 \q1 Their prayers and aspirations for enlightened action:
 \q1 May I fulfil them all completely!
 \q
 \b
-v\ 140 The eldest of the sons of all the buddhas
+\v 140 The eldest of the sons of all the buddhas
 \q1 Is called Samantabhadra: ‘All-good’—
 \q1 So that I may act with a skill like his,
 \q1 I dedicate fully all these merits!
 \q
 \b
-v\ 141 To purify my body, my speech and my mind as well,
+\v 141 To purify my body, my speech and my mind as well,
 \q1 To purify my actions, and all realms,
 \q1 May I be the equal of Samantabhadra
 \q1 In his skill in good dedication!
 \q
 \b
-v\ 142 In order to perform the full virtue of Good Actions,
+\v 142 In order to perform the full virtue of Good Actions,
 \q1 I shall act according to Mañjuśrī's prayers of aspiration,
 \q1 And without ever growing weary, in all the aeons to come,
 \q1 I shall perfectly fulfil every one of his aims!
 \q
 \b
-v\ 143 Let my bodhisattva acts be beyond measure!
+\v 143 Let my bodhisattva acts be beyond measure!
 \q1 Let my enlightened qualities be measureless too!
 \q1 Keeping to this immeasurable activity,
 \q1 May I accomplish all the miraculous powers of enlightenment!
 \q
 \b
-v\ 144 Sentient beings are as limitless
+\v 144 Sentient beings are as limitless
 \q1 As the boundless expanse of space;
 \q1 So shall my prayers of aspiration for them
 \q1 Be as limitless as their karma and harmful emotions!
 \q
 \b
-v\ 145 Whoever hears this king of dedication prayers,
+\v 145 Whoever hears this king of dedication prayers,
 \q1 And yearns for supreme enlightenment,
 \q1 Who even once arouses faith,
 \q1 Will gain true merit greater still
 \q
 \b
-v\ 146 Than by offering the victorious buddhas
+\v 146 Than by offering the victorious buddhas
 \q1 Infinite pure realms in every directions, all ornamented with jewels,
 \q1 Or offering them all the highest joys of gods and humans
 \q1 For as many aeons as there are atoms in those realms.
 \q
 \b
-v\ 147 Whoever truly makes this Aspiration to Good Actions,
+\v 147 Whoever truly makes this Aspiration to Good Actions,
 \q1 Will never again be born in lower realms;
 \q1 They will be free from harmful companions, and
 \q1 Soon behold the Buddha of Boundless Light.
 \q
 \b
-v\ 148 They will acquire all kind of benefits, and live in happiness;
+\v 148 They will acquire all kind of benefits, and live in happiness;
 \q1 Even in this present life all will go well,
 \q1 And before long,
 \q1 They will become just like Samantabhadra.
 \q
 \b
-v\ 149 All negative acts—even the five of immediate retribution—
+\v 149 All negative acts—even the five of immediate retribution—
 \q1 Whatever they have committed in the grip of ignorance,
 \q1 Will soon be completely purified,
 \q1 If they recite this Aspiration to Good Actions.
 \q
 \b
-v\ 150 They will possess perfect wisdom, beauty, and excellent signs,
+\v 150 They will possess perfect wisdom, beauty, and excellent signs,
 \q1 Be born in a good family, and with a radiant appearance.
 \q1 Demons and heretics will never harm them,
 \q1 And all three worlds will honour them with offerings.
 \q
 \b
-v\ 151 They will quickly go beneath the bodhi-tree,
+\v 151 They will quickly go beneath the bodhi-tree,
 \q1 And there, they will sit, to benefit all sentient beings, then
 \q1 Awaken into enlightenment, turn the wheel of Dharma,
 \q1 And tame Māra with all his hordes.
 \q
 \b
-v\ 152 The full result of keeping, teaching, or reading
+\v 152 The full result of keeping, teaching, or reading
 \q1 This Prayer of Aspiration to Good Actions
 \q1 Is known to the buddhas alone:
 \q1 Have no doubt: supreme enlightenment will be yours!
 \q
 \b
-v\ 153 Just as the bodhisattva Mañjuśrī attained omniscience,
+\v 153 Just as the bodhisattva Mañjuśrī attained omniscience,
 \q1 And Samantabhadra too
 \q1 All these merits now I dedicate
 \q1 To train and follow in their footsteps.
 \q
 \b
-v\ 154 As all the victorious buddhas of past, present and future
+\v 154 As all the victorious buddhas of past, present and future
 \q1 Praise dedication as supreme,
 \q1 So now I dedicate all these roots of virtue
 \q1 For all beings to perfect Good Actions.
 \q
 \b
-v\ 155 When it is time for me to die,
+\v 155 When it is time for me to die,
 \q1 Let all that obscures me fade away, so
 \q1 I look on Amitābha, there in person,
 \q1 And go at once to his pure land of Sukhāvatī.
 \q
 \b
-v\ 156 In that pure land, may I actualize every single one
+\v 156 In that pure land, may I actualize every single one
 \q1 Of all these aspirations!
 \q1 May I fulfil them, each and every one,
 \q1 And bring help to beings for as long as the universe remains!
 \q
 \b
-v\ 157 Born there in a beautiful lotus flower,
+\v 157 Born there in a beautiful lotus flower,
 \q1 In that excellent and joyous buddha realm,
 \q1 May the Buddha Amitābha himself
 \q1 Grant me the prophecy foretelling my enlightenment!
 \q
 \b
-v\ 158 Having received the prophecy there,
+\v 158 Having received the prophecy there,
 \q1 With my billions of emanations,
 \q1 Sent out through the power of my mind,
 \q1 May I bring enormous benefit to sentient beings, in all the ten directions!
 \q
 \b
-v\ 159 Through whatever small virtues I have gained
+\v 159 Through whatever small virtues I have gained
 \q1 By reciting this “Aspiration to Good Actions”,
 \q1 May the virtuous wishes of all beings’ prayers and aspirations
 \q1 All be instantly accomplished!
 \q
 \b
-v\ 160 Through the true and boundless merit
+\v 160 Through the true and boundless merit
 \q1 Attained by dedicating this “Aspiration to Good Actions”,
 \q1 May all those now drowning in the ocean of suffering,
 \q1 Reach the supreme realm of Amitābha!
 \q
 \b
-v\ 161 May this King of Aspirations bring about
+\v 161 May this King of Aspirations bring about
 \q1 The supreme aim and benefit of all infinite sentient beings;
 \q1 May they perfect what is described in this holy prayer, uttered by Samantabhadra!
 \q1 May the lower realms be entirely emptied!
