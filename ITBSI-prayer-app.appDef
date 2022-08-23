@@ -469,6 +469,11 @@
       <text-direction value="LTR"/>
       <numeral-system value="Default"/>
       <verse-number-style value="default"/>
+
+      <styles>
+        <style name="div.footer">
+        </style>
+      </styles>
     </styles-info>
 
     <writing-system code="en">
@@ -522,6 +527,11 @@
       <text-direction value="LTR"/>
       <numeral-system value="Default"/>
       <verse-number-style value="default"/>
+
+      <styles>
+        <style name="div.footer">
+        </style>
+      </styles>
     </styles-info>
 
     <writing-system code="en">
